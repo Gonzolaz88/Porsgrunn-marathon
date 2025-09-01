@@ -1,0 +1,5244 @@
+{
+  "5km": {
+    "K12": [
+      {
+        "pos": 1,
+        "name": "Mille Marielle Johansen",
+        "club": "TT Håndball / FK Eik / Tjøme Løpeklubb",
+        "time": "23:58"
+      },
+      {
+        "pos": 2,
+        "name": "Celina Waatevik",
+        "club": "Eidanger IL",
+        "time": "33:22"
+      },
+      {
+        "pos": 3,
+        "name": "Lilja Magnussen Gundersen",
+        "club": "Stathelle",
+        "time": "36:32"
+      }
+    ],
+    "M12": [
+      {
+        "pos": 1,
+        "name": "Elias Lillevold",
+        "club": "Porsgrunn",
+        "time": "21:23"
+      },
+      {
+        "pos": 2,
+        "name": "Noah Waatevik",
+        "club": "Eidanger IL",
+        "time": "23:52"
+      },
+      {
+        "pos": 3,
+        "name": "Emrik Gare",
+        "club": "Drangedal il",
+        "time": "25:43"
+      },
+      {
+        "pos": 4,
+        "name": "Torjus Øino Wilhelmsen",
+        "club": "Herkules Friidrett",
+        "time": "25:48"
+      },
+      {
+        "pos": 5,
+        "name": "Mio Gare",
+        "club": "Drangedal il",
+        "time": "26:34"
+      }
+    ],
+    "K13": [
+      {
+        "pos": 1,
+        "name": "Tuva Bogen Vestli 4144",
+        "club": "Ringerike Friidrettsklubb",
+        "time": "21:27"
+      },
+      {
+        "pos": 2,
+        "name": "Linnea Severinsen",
+        "club": "Skien",
+        "time": "28:13"
+      }
+    ],
+    "M13": [
+      {
+        "pos": 1,
+        "name": "Liam Johansen",
+        "club": "Skien",
+        "time": "26:20"
+      },
+      {
+        "pos": 2,
+        "name": "Liam Dix",
+        "club": "Heddal IL",
+        "time": "31:28"
+      }
+    ],
+    "M14": [
+      {
+        "pos": 1,
+        "name": "Johannes Howden",
+        "club": "Steen-Hansen Maskin AS",
+        "time": "30:13"
+      },
+      {
+        "pos": 2,
+        "name": "Kasper Gare",
+        "club": "Drangedal il",
+        "time": "30:14"
+      }
+    ],
+    "M15": [
+      {
+        "pos": 1,
+        "name": "Mathias Fjelldalselv",
+        "club": "Skarphedin",
+        "time": "19:06"
+      },
+      {
+        "pos": 2,
+        "name": "Ludvig Magnussen Gundersen",
+        "club": "Stathelle",
+        "time": "19:35"
+      },
+      {
+        "pos": 3,
+        "name": "Carl-Wilhelm Busch Støren",
+        "club": "Skarphedin",
+        "time": "21:12"
+      },
+      {
+        "pos": 4,
+        "name": "Ngui N-Hkum",
+        "club": "Stathelle",
+        "time": "21:34"
+      }
+    ],
+    "Para kvinner": [
+      {
+        "pos": 1,
+        "name": "Claudia Vargas",
+        "club": "Porsgrunn",
+        "time": "28:19"
+      }
+    ],
+    "M16-17": [
+      {
+        "pos": 1,
+        "name": "Konrad Boklund",
+        "club": "Herkules",
+        "time": "18:58"
+      }
+    ],
+    "K20-22": [
+      {
+        "pos": 1,
+        "name": "Wilma Camille Iversen",
+        "club": "Skien",
+        "time": "20:07"
+      },
+      {
+        "pos": 2,
+        "name": "Eva Wegener",
+        "club": "Hannover",
+        "time": "40:19"
+      }
+    ],
+    "K23-34": [
+      {
+        "pos": 1,
+        "name": "Hanna Skaraas Johnsen",
+        "club": "Oslo",
+        "time": "19:20"
+      },
+      {
+        "pos": 2,
+        "name": "Ingrid Lindstrøm",
+        "club": "SK Innebandy",
+        "time": "21:50"
+      },
+      {
+        "pos": 3,
+        "name": "Caroline Lunde",
+        "club": "Holtet Runners",
+        "time": "23:02"
+      },
+      {
+        "pos": 4,
+        "name": "Pernille Høegh",
+        "club": "Stathelle",
+        "time": "24:38"
+      },
+      {
+        "pos": 5,
+        "name": "Maren Pettersen",
+        "club": "Skien",
+        "time": "24:40"
+      },
+      {
+        "pos": 6,
+        "name": "Martine Hvaal Halvorsen",
+        "club": "Skien",
+        "time": "24:41"
+      },
+      {
+        "pos": 7,
+        "name": "Vilde Lunden",
+        "club": "Porsgrunn",
+        "time": "25:25"
+      },
+      {
+        "pos": 8,
+        "name": "Trine Agnete Aagaard",
+        "club": "Porsgrunn",
+        "time": "25:52"
+      },
+      {
+        "pos": 8,
+        "name": "Rine Elise Halvorsen",
+        "club": "Porsgrunn",
+        "time": "25:52"
+      },
+      {
+        "pos": 10,
+        "name": "Frida Askeland",
+        "club": "Tjodalyng",
+        "time": "26:04"
+      },
+      {
+        "pos": 11,
+        "name": "Anniken Boye",
+        "club": "Oslo",
+        "time": "28:01"
+      },
+      {
+        "pos": 12,
+        "name": "Guro Rue Johnsen",
+        "club": "Porsgrunn",
+        "time": "28:07"
+      },
+      {
+        "pos": 13,
+        "name": "Viktoria Westbye",
+        "club": "Hei Hvor det går",
+        "time": "29:20"
+      },
+      {
+        "pos": 14,
+        "name": "Kirsti Sletten",
+        "club": "Oslo",
+        "time": "30:14"
+      },
+      {
+        "pos": 15,
+        "name": "Marlene Ånnerød Thorsdal",
+        "club": "Stathelle",
+        "time": "30:45"
+      },
+      {
+        "pos": 16,
+        "name": "Mina Molid Eliassen",
+        "club": "Porsgrunn",
+        "time": "31:21"
+      },
+      {
+        "pos": 17,
+        "name": "Vendela Eikrem",
+        "club": "Porsgrunn",
+        "time": "31:33"
+      },
+      {
+        "pos": 18,
+        "name": "Mina Eidem Halvorsen",
+        "club": "Stavern",
+        "time": "31:45"
+      },
+      {
+        "pos": 19,
+        "name": "Marita Deila",
+        "club": "Porsgrunn",
+        "time": "31:57"
+      },
+      {
+        "pos": 20,
+        "name": "Trude Mari Johansen",
+        "club": "Eiffage Norge",
+        "time": "32:18"
+      },
+      {
+        "pos": 21,
+        "name": "Linda Marielle Larsen",
+        "club": "Langangen",
+        "time": "32:33"
+      },
+      {
+        "pos": 22,
+        "name": "Arnhild Saga",
+        "club": "Svarstad",
+        "time": "32:48"
+      },
+      {
+        "pos": 23,
+        "name": "Anette Hansen",
+        "club": "Skien",
+        "time": "33:01"
+      },
+      {
+        "pos": 24,
+        "name": "Ann Katrin Thorsdal",
+        "club": "Stathelle",
+        "time": "33:03"
+      },
+      {
+        "pos": 25,
+        "name": "Anne Lene Hauge",
+        "club": "Porsgrunn",
+        "time": "33:25"
+      },
+      {
+        "pos": 26,
+        "name": "Tora Gjølme Moen",
+        "club": "Porsgrunn",
+        "time": "33:48"
+      },
+      {
+        "pos": 27,
+        "name": "Katrine Høen Bekkevold",
+        "club": "Stathelle",
+        "time": "34:20"
+      },
+      {
+        "pos": 28,
+        "name": "Synne Wangen",
+        "club": "Larvik",
+        "time": "37:17"
+      },
+      {
+        "pos": 29,
+        "name": "Elise Brændaas",
+        "club": "Porsgrunn",
+        "time": "40:17"
+      },
+      {
+        "pos": 30,
+        "name": "Martine Tonning",
+        "club": "Skien",
+        "time": "41:30"
+      },
+      {
+        "pos": 31,
+        "name": "Tabea Bekkevold",
+        "club": "Sandefjord",
+        "time": "44:03"
+      }
+    ],
+    "M23-34": [
+      {
+        "pos": 1,
+        "name": "Noah Johannessen",
+        "club": "Oslo",
+        "time": "17:52"
+      },
+      {
+        "pos": 2,
+        "name": "Vegard Kolstad",
+        "club": "Siljan Il/Siljan Løpeklubb",
+        "time": "18:08"
+      },
+      {
+        "pos": 3,
+        "name": "Kjetil Kolstad",
+        "club": "Siljan Løpeklubb / Yess Porsgrunn",
+        "time": "18:29"
+      },
+      {
+        "pos": 4,
+        "name": "Daniel Teigen",
+        "club": "Eidanger",
+        "time": "18:43"
+      },
+      {
+        "pos": 5,
+        "name": "Michele Modina",
+        "club": "Asker",
+        "time": "19:39"
+      },
+      {
+        "pos": 6,
+        "name": "Øystein Skjelbred",
+        "club": "Porsgrunn",
+        "time": "21:28"
+      },
+      {
+        "pos": 7,
+        "name": "Jonas Cherkane",
+        "club": "",
+        "time": "24:02"
+      },
+      {
+        "pos": 8,
+        "name": "Jacob Tufte",
+        "club": "Yess Porsgrunn",
+        "time": "24:06"
+      },
+      {
+        "pos": 9,
+        "name": "Magnus Skjelbred",
+        "club": "Porsgrunn",
+        "time": "24:15"
+      },
+      {
+        "pos": 10,
+        "name": "Filippo Panini",
+        "club": "Porsgrunn",
+        "time": "24:55"
+      },
+      {
+        "pos": 11,
+        "name": "Andre Sørbøe",
+        "club": "Skagerak Energi AS",
+        "time": "25:07"
+      },
+      {
+        "pos": 12,
+        "name": "Simen Jørgensen",
+        "club": "Skien",
+        "time": "25:24"
+      },
+      {
+        "pos": 13,
+        "name": "Dusan Pralica",
+        "club": "Skien",
+        "time": "25:57"
+      },
+      {
+        "pos": 14,
+        "name": "Vidar Olaisen",
+        "club": "SKI",
+        "time": "26:17"
+      },
+      {
+        "pos": 14,
+        "name": "Erlend Aardalen Frydenlund",
+        "club": "Porsgrunn",
+        "time": "26:17"
+      },
+      {
+        "pos": 16,
+        "name": "Anders Nybråten",
+        "club": "Skien",
+        "time": "27:58"
+      },
+      {
+        "pos": 17,
+        "name": "Sebastian Grønning",
+        "club": "Skien",
+        "time": "28:35"
+      },
+      {
+        "pos": 18,
+        "name": "Jonas Nordgarden",
+        "club": "Slomo",
+        "time": "28:48"
+      },
+      {
+        "pos": 19,
+        "name": "Mathias Wangen",
+        "club": "Porsgrunn",
+        "time": "30:47"
+      },
+      {
+        "pos": 20,
+        "name": "Remi-Andre Nerisen",
+        "club": "Skien",
+        "time": "32:54"
+      },
+      {
+        "pos": 21,
+        "name": "Michael Larsen",
+        "club": "Porsgrunn",
+        "time": "33:26"
+      }
+    ],
+    "K35-39": [
+      {
+        "pos": 1,
+        "name": "Malén Gudbrandsgard",
+        "club": "Heistad Løpeklubb Damer",
+        "time": "21:00"
+      },
+      {
+        "pos": 2,
+        "name": "Tine Thorsteinsen",
+        "club": "TTU",
+        "time": "23:25"
+      },
+      {
+        "pos": 3,
+        "name": "Jeanett Gjærum",
+        "club": "Skien",
+        "time": "26:21"
+      },
+      {
+        "pos": 4,
+        "name": "Anne Marte Skarding",
+        "club": "Skagerak Energi Bedriftsidrettslag",
+        "time": "27:26"
+      },
+      {
+        "pos": 5,
+        "name": "Heidi Sindum",
+        "club": "Porsgrunn",
+        "time": "28:22"
+      },
+      {
+        "pos": 6,
+        "name": "Lina Sterner",
+        "club": "Skien",
+        "time": "28:34"
+      },
+      {
+        "pos": 7,
+        "name": "Guro Lind Waskaas",
+        "club": "Skien",
+        "time": "30:09"
+      },
+      {
+        "pos": 8,
+        "name": "Maren Høiseth Fristad",
+        "club": "Siljan Løpeklubb",
+        "time": "30:43"
+      },
+      {
+        "pos": 9,
+        "name": "Stine Sandbo",
+        "club": "Nesoddtangen",
+        "time": "31:28"
+      },
+      {
+        "pos": 10,
+        "name": "Pia Anette Hansen",
+        "club": "Skien",
+        "time": "31:42"
+      },
+      {
+        "pos": 11,
+        "name": "Olaug Flatland Dyrud",
+        "club": "Skien",
+        "time": "32:01"
+      },
+      {
+        "pos": 12,
+        "name": "Tanja Therese Måbø",
+        "club": "Stathelle",
+        "time": "32:55"
+      },
+      {
+        "pos": 13,
+        "name": "Peerada Samunual",
+        "club": "Norner Bedriftidrettslag",
+        "time": "33:15"
+      },
+      {
+        "pos": 14,
+        "name": "Martine Egilsdatter Bøe Breiland",
+        "club": "Skien",
+        "time": "33:40"
+      },
+      {
+        "pos": 15,
+        "name": "Mari Haugen",
+        "club": "Lunde",
+        "time": "33:53"
+      },
+      {
+        "pos": 16,
+        "name": "Olga Salvesen",
+        "club": "Skien",
+        "time": "34:01"
+      },
+      {
+        "pos": 17,
+        "name": "Kaja Straume Kvalø",
+        "club": "Porsgrunn",
+        "time": "34:44"
+      },
+      {
+        "pos": 18,
+        "name": "Sunisa Srikun",
+        "club": "Porsgrunn",
+        "time": "36:17"
+      },
+      {
+        "pos": 19,
+        "name": "Kristine Drivdal",
+        "club": "Eidanger IL",
+        "time": "37:27"
+      },
+      {
+        "pos": 20,
+        "name": "Nora Heyerdahl",
+        "club": "Skien",
+        "time": "39:34"
+      },
+      {
+        "pos": 21,
+        "name": "Gretchen Tangen",
+        "club": "Porsgrunn",
+        "time": "39:37"
+      },
+      {
+        "pos": 22,
+        "name": "Rozanne Marie Larsen Marsh",
+        "club": "Brevik",
+        "time": "41:23"
+      },
+      {
+        "pos": 23,
+        "name": "Linn Therese Eckholdt",
+        "club": "Skien",
+        "time": "41:27"
+      },
+      {
+        "pos": 24,
+        "name": "Stine Schubert",
+        "club": "Skien",
+        "time": "41:30"
+      }
+    ],
+    "M35-39": [
+      {
+        "pos": 1,
+        "name": "Jonathan Supphellen Waatevik",
+        "club": "Porsgrunn",
+        "time": "17:04"
+      },
+      {
+        "pos": 2,
+        "name": "Petter Ajer",
+        "club": "Skien",
+        "time": "20:58"
+      },
+      {
+        "pos": 3,
+        "name": "Preben Young",
+        "club": "Yess Porsgrunn",
+        "time": "24:08"
+      },
+      {
+        "pos": 4,
+        "name": "Atle Eika",
+        "club": "Skatteetaten",
+        "time": "25:07"
+      },
+      {
+        "pos": 5,
+        "name": "Fredrik Styrvold",
+        "club": "Solberg Bil",
+        "time": "27:11"
+      }
+    ],
+    "K40-44": [
+      {
+        "pos": 1,
+        "name": "Beate Vik Fjelldalselv",
+        "club": "Skarphedin",
+        "time": "23:36"
+      },
+      {
+        "pos": 2,
+        "name": "Birgitte Ølmheim",
+        "club": "Skien",
+        "time": "24:04"
+      },
+      {
+        "pos": 3,
+        "name": "Jeanett Johansen",
+        "club": "Tjøme Løpeklubb",
+        "time": "24:20"
+      },
+      {
+        "pos": 4,
+        "name": "Heidi Kristiansen",
+        "club": "Oasen Fritid",
+        "time": "24:49"
+      },
+      {
+        "pos": 5,
+        "name": "Cathrine Wiik Svendsen",
+        "club": "Ulefoss",
+        "time": "26:26"
+      },
+      {
+        "pos": 6,
+        "name": "Sandra Kjendsli Meland",
+        "club": "Kristiansand S",
+        "time": "30:38"
+      },
+      {
+        "pos": 7,
+        "name": "Ann Gøril Nykås",
+        "club": "Skien",
+        "time": "31:25"
+      },
+      {
+        "pos": 8,
+        "name": "Kathrine Øvrum Dalen",
+        "club": "Porsgrunn",
+        "time": "32:18"
+      },
+      {
+        "pos": 9,
+        "name": "Kine Bekkevold",
+        "club": "Stathelle",
+        "time": "33:03"
+      },
+      {
+        "pos": 10,
+        "name": "Hilde Kilen",
+        "club": "Sannidal",
+        "time": "33:14"
+      },
+      {
+        "pos": 11,
+        "name": "Nina Kverndalen",
+        "club": "Siljan",
+        "time": "33:31"
+      },
+      {
+        "pos": 12,
+        "name": "Vibeke Eika",
+        "club": "Porsgrunn",
+        "time": "34:35"
+      },
+      {
+        "pos": 13,
+        "name": "Vibeche Steen Howden",
+        "club": "Steen-Hansen Maskin AS",
+        "time": "36:11"
+      },
+      {
+        "pos": 14,
+        "name": "Monica Nykås Haugen",
+        "club": "Notodden",
+        "time": "36:24"
+      }
+    ],
+    "M40-44": [
+      {
+        "pos": 1,
+        "name": "Sondre Wright Lunde",
+        "club": "Hemsedal IL",
+        "time": "18:49"
+      },
+      {
+        "pos": 2,
+        "name": "Øyvind Asgautsen",
+        "club": "Porsgrunn",
+        "time": "20:22"
+      },
+      {
+        "pos": 3,
+        "name": "Jan Kristian Johansen",
+        "club": "Tjøme Løpeklubb",
+        "time": "20:38"
+      },
+      {
+        "pos": 4,
+        "name": "Gunleik Minnesjord",
+        "club": "Skien",
+        "time": "24:17"
+      },
+      {
+        "pos": 5,
+        "name": "Lars Grytdal",
+        "club": "Team Steen-Hansen",
+        "time": "24:48"
+      },
+      {
+        "pos": 6,
+        "name": "Johan Gustavsen",
+        "club": "Johnny Jensen AS",
+        "time": "25:34"
+      },
+      {
+        "pos": 7,
+        "name": "Heimon Winkelman",
+        "club": "Skien",
+        "time": "27:25"
+      },
+      {
+        "pos": 8,
+        "name": "Andreas Friis",
+        "club": "Sundjordet Fotball",
+        "time": "30:05"
+      },
+      {
+        "pos": 9,
+        "name": "Håkon Heines",
+        "club": "Skien",
+        "time": "32:24"
+      }
+    ],
+    "K45-49": [
+      {
+        "pos": 1,
+        "name": "Yvette Ricciotti Gran Christiansen",
+        "club": "Tjøme Løpeklubb",
+        "time": "24:08"
+      },
+      {
+        "pos": 2,
+        "name": "Mariann H. Asland",
+        "club": "Sauland il",
+        "time": "24:44"
+      },
+      {
+        "pos": 3,
+        "name": "Linda Aannestad",
+        "club": "Stathelle",
+        "time": "27:20"
+      },
+      {
+        "pos": 4,
+        "name": "Charlotte Holt",
+        "club": "Sportsjentene / Bilfinger",
+        "time": "28:24"
+      },
+      {
+        "pos": 5,
+        "name": "Lene Larsen",
+        "club": "Sport1porsgrunn",
+        "time": "30:22"
+      },
+      {
+        "pos": 6,
+        "name": "Hilde Wilhelmsen",
+        "club": "Skien",
+        "time": "31:01"
+      },
+      {
+        "pos": 7,
+        "name": "Live Elvsaas",
+        "club": "Skien",
+        "time": "32:08"
+      },
+      {
+        "pos": 8,
+        "name": "Katrin Grenzer",
+        "club": "Notodden",
+        "time": "32:48"
+      },
+      {
+        "pos": 9,
+        "name": "Tatiana Korol",
+        "club": "Seljord",
+        "time": "32:55"
+      },
+      {
+        "pos": 10,
+        "name": "Camilla Holmberg",
+        "club": "Skien",
+        "time": "33:38"
+      },
+      {
+        "pos": 11,
+        "name": "Ellinor Dewey",
+        "club": "Porsgrunn",
+        "time": "33:43"
+      },
+      {
+        "pos": 12,
+        "name": "Rikke Boklund",
+        "club": "Herkules Sykkel",
+        "time": "35:26"
+      },
+      {
+        "pos": 13,
+        "name": "Mirabelth Ringsevjen",
+        "club": "Porsgrunn",
+        "time": "37:50"
+      }
+    ],
+    "M45-49": [
+      {
+        "pos": 1,
+        "name": "Magne Boklund",
+        "club": "Herkules Sykkel",
+        "time": "19:36"
+      },
+      {
+        "pos": 2,
+        "name": "Jens Gardsteig",
+        "club": "Arabygdi",
+        "time": "20:45"
+      },
+      {
+        "pos": 3,
+        "name": "Per Arne Moen",
+        "club": "Miljøpartiet de Grønne",
+        "time": "23:04"
+      },
+      {
+        "pos": 4,
+        "name": "Jon-Erik Grytdal",
+        "club": "Porsgrunn",
+        "time": "23:57"
+      },
+      {
+        "pos": 5,
+        "name": "Dag Peder Wilhelmsen",
+        "club": "Skien",
+        "time": "26:00"
+      },
+      {
+        "pos": 6,
+        "name": "Halvor Kvandal",
+        "club": "Porsgrunn",
+        "time": "30:49"
+      },
+      {
+        "pos": 7,
+        "name": "Stian Gunnestad",
+        "club": "Skien",
+        "time": "32:11"
+      },
+      {
+        "pos": 8,
+        "name": "Hanne Findal",
+        "club": "Eidanger IL",
+        "time": "32:46"
+      },
+      {
+        "pos": 9,
+        "name": "Anders K Pettersen",
+        "club": "Porsgrunn",
+        "time": "33:44"
+      },
+      {
+        "pos": 10,
+        "name": "Tom E Simonsen",
+        "club": "Åfoss OIL",
+        "time": "35:03"
+      }
+    ],
+    "K50-54": [
+      {
+        "pos": 1,
+        "name": "Hilde Andersen",
+        "club": "Miljøpartiet de Grønne",
+        "time": "29:13"
+      },
+      {
+        "pos": 2,
+        "name": "Anita Hogstad",
+        "club": "Mona Pedersen",
+        "time": "30:58"
+      },
+      {
+        "pos": 3,
+        "name": "Viktoriia Gulevych",
+        "club": "3717",
+        "time": "35:00"
+      }
+    ],
+    "M50-54": [
+      {
+        "pos": 1,
+        "name": "Stian Svendby",
+        "club": "Caverion",
+        "time": "22:40"
+      },
+      {
+        "pos": 2,
+        "name": "Pål Larsen Larsen",
+        "club": "Brevik",
+        "time": "23:38"
+      },
+      {
+        "pos": 3,
+        "name": "Bjørn Davidsen",
+        "club": "Skagerak Energi Bedriftslag",
+        "time": "24:43"
+      },
+      {
+        "pos": 4,
+        "name": "Jan Thomas Sortedal",
+        "club": "Porsgrunn",
+        "time": "30:58"
+      },
+      {
+        "pos": 5,
+        "name": "Geir Kildal",
+        "club": "Skagerak Energi",
+        "time": "31:49"
+      },
+      {
+        "pos": 6,
+        "name": "Christer Elvsaas",
+        "club": "Skien",
+        "time": "32:08"
+      }
+    ],
+    "K55-59": [
+      {
+        "pos": 1,
+        "name": "Toril Lysaker",
+        "club": "Skien",
+        "time": "27:16"
+      },
+      {
+        "pos": 2,
+        "name": "Jorunn Skifjeld Jensen",
+        "club": "Tønsberg",
+        "time": "28:00"
+      },
+      {
+        "pos": 3,
+        "name": "Niken Theilmann",
+        "club": "Stabbestad",
+        "time": "38:43"
+      },
+      {
+        "pos": 4,
+        "name": "Lene Ivanova",
+        "club": "Brevik",
+        "time": "39:52"
+      },
+      {
+        "pos": 5,
+        "name": "Kjersti Myhre",
+        "club": "Brevik",
+        "time": "39:53"
+      }
+    ],
+    "M55-59": [
+      {
+        "pos": 1,
+        "name": "Anders Omdal",
+        "club": "Skagerak Energi BIL",
+        "time": "19:47"
+      },
+      {
+        "pos": 2,
+        "name": "Roger Christiansen",
+        "club": "Tjøme Løpeklubb",
+        "time": "20:17"
+      },
+      {
+        "pos": 3,
+        "name": "Thor Kristian Iversen",
+        "club": "Solberg Bil",
+        "time": "23:13"
+      },
+      {
+        "pos": 4,
+        "name": "Pål Rune Helgetveit",
+        "club": "Sykehuset Telemark",
+        "time": "23:23"
+      },
+      {
+        "pos": 5,
+        "name": "Lasse Johansen",
+        "club": "Skagerak BIL",
+        "time": "23:57"
+      },
+      {
+        "pos": 6,
+        "name": "Bjørn Widen",
+        "club": "Porsgrunn",
+        "time": "27:24"
+      },
+      {
+        "pos": 7,
+        "name": "Erik Dørhellen",
+        "club": "Hydro Porsgrunn",
+        "time": "27:40"
+      },
+      {
+        "pos": 8,
+        "name": "Jens Petter Haugen",
+        "club": "Skien",
+        "time": "29:35"
+      }
+    ],
+    "K60-64": [
+      {
+        "pos": 1,
+        "name": "Heidi Dickinson",
+        "club": "Tønsberg",
+        "time": "28:05"
+      },
+      {
+        "pos": 2,
+        "name": "Nina Elisabeth Omland Korsviken",
+        "club": "Porsgrunn Kommune",
+        "time": "29:55"
+      },
+      {
+        "pos": 3,
+        "name": "Mona Pedersen",
+        "club": "Mona Pedersen",
+        "time": "37:41"
+      }
+    ],
+    "M60-64": [
+      {
+        "pos": 1,
+        "name": "Trond Schjøth",
+        "club": "Yess",
+        "time": "25:43"
+      },
+      {
+        "pos": 2,
+        "name": "Per Børstad",
+        "club": "Rednningsselskapet",
+        "time": "25:44"
+      },
+      {
+        "pos": 3,
+        "name": "Herbjørn Kristiansen",
+        "club": "Porsgrunn",
+        "time": "29:51"
+      },
+      {
+        "pos": 4,
+        "name": "Knut Brog",
+        "club": "Skien",
+        "time": "30:36"
+      }
+    ],
+    "M65-69": [
+      {
+        "pos": 1,
+        "name": "Arvid Supphellen",
+        "club": "Gjerpen IF",
+        "time": "23:52"
+      },
+      {
+        "pos": 2,
+        "name": "Dag Størksen",
+        "club": "Skien",
+        "time": "28:23"
+      },
+      {
+        "pos": 3,
+        "name": "Per Kristen Magnussen",
+        "club": "Stathelle",
+        "time": "36:37"
+      }
+    ]
+  },
+  "10km": {
+    "K13": [
+      {
+        "pos": 1,
+        "name": "Elvira Dalsegg",
+        "club": "Skien Svømmeklubb",
+        "time": "59:40"
+      }
+    ],
+    "M13": [
+      {
+        "pos": 1,
+        "name": "Marcus Karlsen Slåen",
+        "club": "Pors Fotball",
+        "time": "1:00:14"
+      }
+    ],
+    "K14": [
+      {
+        "pos": 1,
+        "name": "Frida Wian-Gunnerund",
+        "club": "Herkules",
+        "time": "1:16:31"
+      },
+      {
+        "pos": 1,
+        "name": "Maren Groa",
+        "club": "Herkules Fotball",
+        "time": "1:16:31"
+      }
+    ],
+    "M14": [
+      {
+        "pos": 1,
+        "name": "Jonathan Myhre",
+        "club": "Porsgrunn",
+        "time": "48:38"
+      },
+      {
+        "pos": 2,
+        "name": "Sindre Høgstad",
+        "club": "Porsgrunn",
+        "time": "50:36"
+      }
+    ],
+    "K16-17": [
+      {
+        "pos": 1,
+        "name": "Lara Zeida",
+        "club": "Østerås",
+        "time": "57:47"
+      }
+    ],
+    "M16-17": [
+      {
+        "pos": 1,
+        "name": "René Alejandro Myhre",
+        "club": "IF Tønsberg-Kameratene",
+        "time": "40:06"
+      },
+      {
+        "pos": 2,
+        "name": "Jonas Stoa",
+        "club": "Porsgrunn",
+        "time": "40:46"
+      },
+      {
+        "pos": 3,
+        "name": "Tobias Høgstad",
+        "club": "Porsgrunn",
+        "time": "50:38"
+      }
+    ],
+    "K18-19": [
+      {
+        "pos": 1,
+        "name": "Ina Arstein",
+        "club": "Pors Turn",
+        "time": "1:05:36"
+      }
+    ],
+    "K20-22": [
+      {
+        "pos": 1,
+        "name": "Tiril Nyheim Kristoffersen",
+        "club": "Slomo",
+        "time": "48:38"
+      },
+      {
+        "pos": 2,
+        "name": "Tiril Kvåle",
+        "club": "Langangen",
+        "time": "48:53"
+      },
+      {
+        "pos": 3,
+        "name": "Adele Isaksen",
+        "club": "Grimstad",
+        "time": "56:29"
+      },
+      {
+        "pos": 4,
+        "name": "Matilde Nyheim Kristoffersen",
+        "club": "Slomo",
+        "time": "57:34"
+      },
+      {
+        "pos": 5,
+        "name": "Stine Espe Karlsen",
+        "club": "Porsgrunn",
+        "time": "1:10:23"
+      },
+      {
+        "pos": 6,
+        "name": "Helene Friis",
+        "club": "Grimstad",
+        "time": "1:11:50"
+      }
+    ],
+    "M20-22": [
+      {
+        "pos": 1,
+        "name": "Sebastian Stahlsberg",
+        "club": "Yara Porsgrunn (Fgj4)",
+        "time": "35:20"
+      },
+      {
+        "pos": 2,
+        "name": "Ouikhlef Zakaria",
+        "club": "Eiffage",
+        "time": "45:55"
+      },
+      {
+        "pos": 3,
+        "name": "Olav Andre Myklebust",
+        "club": "Haugesund",
+        "time": "47:03"
+      },
+      {
+        "pos": 4,
+        "name": "Pau Losantos Mercader",
+        "club": "USN",
+        "time": "47:09"
+      },
+      {
+        "pos": 5,
+        "name": "Brage Wikmark",
+        "club": "Sandefjord",
+        "time": "51:53"
+      },
+      {
+        "pos": 6,
+        "name": "Knut Martin Reime",
+        "club": "Porsgrunn",
+        "time": "52:55"
+      },
+      {
+        "pos": 7,
+        "name": "Robert James Strøm",
+        "club": "Skien",
+        "time": "55:00"
+      },
+      {
+        "pos": 8,
+        "name": "Andreas Sivertsen Johannessen",
+        "club": "Nii’S Overtid og Undertrening",
+        "time": "1:01:15"
+      },
+      {
+        "pos": 9,
+        "name": "Daniel Jensen",
+        "club": "The Hogs",
+        "time": "1:09:57"
+      }
+    ],
+    "K23-34": [
+      {
+        "pos": 1,
+        "name": "Mathilde Knutsen",
+        "club": "Stathelle",
+        "time": "36:02"
+      },
+      {
+        "pos": 2,
+        "name": "Stine Steinhaug",
+        "club": "Oslo",
+        "time": "41:09"
+      },
+      {
+        "pos": 3,
+        "name": "Amanda Einungbrekke",
+        "club": "Skien",
+        "time": "42:52"
+      },
+      {
+        "pos": 4,
+        "name": "Christine Brønsten",
+        "club": "Autostrada",
+        "time": "46:44"
+      },
+      {
+        "pos": 5,
+        "name": "Magnus Svarstad",
+        "club": "Solberg Bil",
+        "time": "47:31"
+      },
+      {
+        "pos": 6,
+        "name": "Sara Charlotte Arnoldsen",
+        "club": "Heistad Løpeklubb Damer",
+        "time": "48:26"
+      },
+      {
+        "pos": 7,
+        "name": "Tonje Berg Halvorsen",
+        "club": "Siljan Il/Siljan Løpeklubb",
+        "time": "48:49"
+      },
+      {
+        "pos": 8,
+        "name": "Thea Alsaker",
+        "club": "Tønsberg",
+        "time": "48:52"
+      },
+      {
+        "pos": 9,
+        "name": "Maria Bjørkå-Hjortdal",
+        "club": "Porsgrunn",
+        "time": "50:02"
+      },
+      {
+        "pos": 10,
+        "name": "Kristine Skifjeld Jensen",
+        "club": "NCC Norge AS",
+        "time": "50:23"
+      },
+      {
+        "pos": 11,
+        "name": "Matilde Sophie Madshus",
+        "club": "HLK Damer/Bilfinger",
+        "time": "51:12"
+      },
+      {
+        "pos": 12,
+        "name": "Eva Seilskjær Frydendal",
+        "club": "Skien Kommune",
+        "time": "53:00"
+      },
+      {
+        "pos": 13,
+        "name": "Marie Bøen",
+        "club": "Heistad Løpeklubb Damer",
+        "time": "53:22"
+      },
+      {
+        "pos": 14,
+        "name": "Hilde Tysnes",
+        "club": "Oslo",
+        "time": "53:26"
+      },
+      {
+        "pos": 15,
+        "name": "Helene Celine Sjøberg",
+        "club": "Porsgrunn",
+        "time": "54:13"
+      },
+      {
+        "pos": 16,
+        "name": "Solveig Joy",
+        "club": "Oslo",
+        "time": "54:33"
+      },
+      {
+        "pos": 17,
+        "name": "Emilie Voje Aabel",
+        "club": "Drangedal Tannklinikk",
+        "time": "54:43"
+      },
+      {
+        "pos": 18,
+        "name": "Guro Orskaug Sivertsen",
+        "club": "Olsvik IL",
+        "time": "56:43"
+      },
+      {
+        "pos": 19,
+        "name": "Julia Sund",
+        "club": "Trondheim",
+        "time": "57:55"
+      },
+      {
+        "pos": 20,
+        "name": "Rikke Aarhus Høglid",
+        "club": "Porsgrunn",
+        "time": "58:47"
+      },
+      {
+        "pos": 21,
+        "name": "Karoline Kongsteien",
+        "club": "Larvik",
+        "time": "59:16"
+      },
+      {
+        "pos": 22,
+        "name": "Mette Kirstine Aastad",
+        "club": "Heistad Løpeklubb Damer",
+        "time": "59:17"
+      },
+      {
+        "pos": 23,
+        "name": "Karoline Ødegaarden",
+        "club": "Bendiksen",
+        "time": "59:29"
+      },
+      {
+        "pos": 24,
+        "name": "Mia Høyer Halvorsen",
+        "club": "Porsgrunn",
+        "time": "1:01:23"
+      },
+      {
+        "pos": 25,
+        "name": "Charlyn Joy Lacbayo Obiso",
+        "club": "Lysaker",
+        "time": "1:01:35"
+      },
+      {
+        "pos": 26,
+        "name": "Eva Malene Hartveit",
+        "club": "Langesund",
+        "time": "1:02:46"
+      },
+      {
+        "pos": 27,
+        "name": "Camilla Høibø",
+        "club": "Caverion",
+        "time": "1:04:08"
+      },
+      {
+        "pos": 28,
+        "name": "Sandra Vistad",
+        "club": "Caverion",
+        "time": "1:04:09"
+      },
+      {
+        "pos": 29,
+        "name": "Christine Ludvik-Søreid",
+        "club": "Caverion",
+        "time": "1:04:14"
+      },
+      {
+        "pos": 30,
+        "name": "Sarah Akhsas",
+        "club": "Grimstad",
+        "time": "1:05:26"
+      },
+      {
+        "pos": 31,
+        "name": "Rebecka Karlsen",
+        "club": "Sølvi Abrahamsen",
+        "time": "1:07:32"
+      },
+      {
+        "pos": 32,
+        "name": "Marte Finstad",
+        "club": "Skien",
+        "time": "1:07:56"
+      },
+      {
+        "pos": 33,
+        "name": "Victoria Ruud",
+        "club": "Porsgrunn",
+        "time": "1:08:23"
+      },
+      {
+        "pos": 34,
+        "name": "Sandra Lian",
+        "club": "Eiffage",
+        "time": "1:10:25"
+      },
+      {
+        "pos": 35,
+        "name": "Henriette Svanes",
+        "club": "Porsgrunn",
+        "time": "1:10:28"
+      },
+      {
+        "pos": 36,
+        "name": "Michelle Christophersen",
+        "club": "USN",
+        "time": "1:11:55"
+      },
+      {
+        "pos": 37,
+        "name": "Emma Svantesen",
+        "club": "Froland",
+        "time": "1:12:09"
+      },
+      {
+        "pos": 38,
+        "name": "Hanne Kaland Odden",
+        "club": "Porsgrunn",
+        "time": "1:13:42"
+      },
+      {
+        "pos": 39,
+        "name": "Synne Aasgrav",
+        "club": "Porsgrunn",
+        "time": "1:16:59"
+      },
+      {
+        "pos": 40,
+        "name": "Julie Myrvang",
+        "club": "Skien",
+        "time": "1:18:32"
+      }
+    ],
+    "M23-34": [
+      {
+        "pos": 1,
+        "name": "Marcus Gill",
+        "club": "Heistad Løpeklubb",
+        "time": "33:03"
+      },
+      {
+        "pos": 2,
+        "name": "Abdalla Targan Yousif",
+        "club": "Skien",
+        "time": "33:43"
+      },
+      {
+        "pos": 3,
+        "name": "Sander Mikkelsen",
+        "club": "Snøgg Friidrett",
+        "time": "35:47"
+      },
+      {
+        "pos": 4,
+        "name": "Hans Hesthagen",
+        "club": "Harmoni",
+        "time": "37:02"
+      },
+      {
+        "pos": 5,
+        "name": "Johannes Yngve",
+        "club": "Lovstafetten",
+        "time": "37:09"
+      },
+      {
+        "pos": 6,
+        "name": "Thomas Norder",
+        "club": "Tjøme Løpeklubb | Torshov Sport Runners",
+        "time": "37:28"
+      },
+      {
+        "pos": 7,
+        "name": "Vegar Aasgrav",
+        "club": "Porsgrunn",
+        "time": "38:09"
+      },
+      {
+        "pos": 8,
+        "name": "Sondre Supphellen",
+        "club": "Porsgrunn",
+        "time": "38:37"
+      },
+      {
+        "pos": 9,
+        "name": "Gabriel Striegl",
+        "club": "USN",
+        "time": "40:03"
+      },
+      {
+        "pos": 10,
+        "name": "Robert Pedersen",
+        "club": "Eidanger IL",
+        "time": "40:07"
+      },
+      {
+        "pos": 11,
+        "name": "Martin Jacobsen",
+        "club": "Heistad Løpeklubb",
+        "time": "40:11"
+      },
+      {
+        "pos": 12,
+        "name": "Oscar Widestam",
+        "club": "Sweco BIL",
+        "time": "40:45"
+      },
+      {
+        "pos": 13,
+        "name": "Allistair Langburne",
+        "club": "Porsgrunn",
+        "time": "42:18"
+      },
+      {
+        "pos": 14,
+        "name": "Henrik Jansson",
+        "club": "Holtet Runners",
+        "time": "42:29"
+      },
+      {
+        "pos": 15,
+        "name": "Marius Fredriksen",
+        "club": "Sande",
+        "time": "42:40"
+      },
+      {
+        "pos": 16,
+        "name": "Vegar Dale Møane",
+        "club": "Porsgrunn",
+        "time": "43:35"
+      },
+      {
+        "pos": 17,
+        "name": "Emil Melfald",
+        "club": "Porsgrunn",
+        "time": "44:32"
+      },
+      {
+        "pos": 18,
+        "name": "Lars Eikanger",
+        "club": "Eiksmarka",
+        "time": "45:32"
+      },
+      {
+        "pos": 19,
+        "name": "Åsmund Klovholt",
+        "club": "Skien",
+        "time": "45:43"
+      },
+      {
+        "pos": 20,
+        "name": "Magnus Flatland",
+        "club": "BØ I Telemark",
+        "time": "45:49"
+      },
+      {
+        "pos": 21,
+        "name": "Ole Halmøy",
+        "club": "Oslo",
+        "time": "46:47"
+      },
+      {
+        "pos": 22,
+        "name": "Fabio Branilovic",
+        "club": "USN",
+        "time": "47:35"
+      },
+      {
+        "pos": 23,
+        "name": "Jasper Wijnands",
+        "club": "Porsgrunn",
+        "time": "47:45"
+      },
+      {
+        "pos": 24,
+        "name": "Simen Askeland",
+        "club": "Oslo",
+        "time": "48:22"
+      },
+      {
+        "pos": 25,
+        "name": "Marcin Kordzikowski",
+        "club": "Moelv",
+        "time": "48:52"
+      },
+      {
+        "pos": 26,
+        "name": "Mortada Ismail",
+        "club": "Skien",
+        "time": "50:44"
+      },
+      {
+        "pos": 27,
+        "name": "Audun Steen",
+        "club": "Porsgrunn",
+        "time": "50:46"
+      },
+      {
+        "pos": 28,
+        "name": "Bård Brubakken",
+        "club": "Stathelle",
+        "time": "50:56"
+      },
+      {
+        "pos": 29,
+        "name": "Even Mustvedt",
+        "club": "Porsgrunn",
+        "time": "52:48"
+      },
+      {
+        "pos": 30,
+        "name": "Sindre Nilsen",
+        "club": "Brevik",
+        "time": "53:06"
+      },
+      {
+        "pos": 31,
+        "name": "Dawid Bak",
+        "club": "Herre",
+        "time": "53:16"
+      },
+      {
+        "pos": 32,
+        "name": "Tore Versvik",
+        "club": "Porsgrunn",
+        "time": "55:16"
+      },
+      {
+        "pos": 33,
+        "name": "Alexander Örnberg",
+        "club": "Lysaker",
+        "time": "55:43"
+      },
+      {
+        "pos": 34,
+        "name": "Jan Olav Thalberg",
+        "club": "IL HEI",
+        "time": "56:50"
+      },
+      {
+        "pos": 35,
+        "name": "Halvor Bauge Dale",
+        "club": "Skien",
+        "time": "57:14"
+      },
+      {
+        "pos": 36,
+        "name": "Mats Christensen",
+        "club": "Skien",
+        "time": "57:54"
+      },
+      {
+        "pos": 37,
+        "name": "Øystein Dreier",
+        "club": "Nii’S Overtid og Undertrening",
+        "time": "58:16"
+      },
+      {
+        "pos": 38,
+        "name": "Lars Bergstrøm",
+        "club": "Porsgrunn",
+        "time": "58:22"
+      },
+      {
+        "pos": 39,
+        "name": "Bendik Kjær",
+        "club": "Skien",
+        "time": "58:24"
+      },
+      {
+        "pos": 40,
+        "name": "Patrick Hermann",
+        "club": "Sweco",
+        "time": "59:05"
+      },
+      {
+        "pos": 41,
+        "name": "Teo Rollefsen",
+        "club": "The Hogs",
+        "time": "59:20"
+      },
+      {
+        "pos": 42,
+        "name": "Henrik Baugerød",
+        "club": "The Hogs",
+        "time": "59:21"
+      },
+      {
+        "pos": 43,
+        "name": "Emil Hartveit",
+        "club": "Langesund",
+        "time": "1:00:20"
+      },
+      {
+        "pos": 44,
+        "name": "Jules Tiberghien",
+        "club": "Eiffage",
+        "time": "1:01:36"
+      },
+      {
+        "pos": 45,
+        "name": "Jack Middleton",
+        "club": "Yara",
+        "time": "1:02:24"
+      },
+      {
+        "pos": 46,
+        "name": "Pål Steen",
+        "club": "Telenor Norge",
+        "time": "1:07:50"
+      },
+      {
+        "pos": 47,
+        "name": "Henrik Skoe",
+        "club": "Porsgrunn",
+        "time": "1:09:48"
+      },
+      {
+        "pos": 48,
+        "name": "Tony Myrland",
+        "club": "Kristiansand S",
+        "time": "1:10:24"
+      },
+      {
+        "pos": 49,
+        "name": "Raymond Skogli",
+        "club": "Vennesla",
+        "time": "1:11:48"
+      },
+      {
+        "pos": 50,
+        "name": "Mats Malmgren",
+        "club": "Porsgrunn",
+        "time": "1:16:57"
+      }
+    ],
+    "K35-39": [
+      {
+        "pos": 1,
+        "name": "Ida Løkkevik Svendseid",
+        "club": "Skien",
+        "time": "45:53"
+      },
+      {
+        "pos": 2,
+        "name": "Benedikte Wiig Bøen",
+        "club": "Porsgrunn",
+        "time": "46:34"
+      },
+      {
+        "pos": 3,
+        "name": "Stine Gulliksen",
+        "club": "Limi-Run",
+        "time": "48:14"
+      },
+      {
+        "pos": 4,
+        "name": "Stine Iversen",
+        "club": "Larvik Kommune BIL",
+        "time": "48:49"
+      },
+      {
+        "pos": 5,
+        "name": "Birgitte Boklund Melkild",
+        "club": "Skagerak Energi BIL",
+        "time": "49:07"
+      },
+      {
+        "pos": 6,
+        "name": "Ida Zoi Salvesen",
+        "club": "Sparebanken Norge BIL",
+        "time": "50:21"
+      },
+      {
+        "pos": 7,
+        "name": "Vera Hansen",
+        "club": "Porsgrunn",
+        "time": "50:36"
+      },
+      {
+        "pos": 8,
+        "name": "Elisabeth Hansen",
+        "club": "Eidanger IL",
+        "time": "53:20"
+      },
+      {
+        "pos": 9,
+        "name": "Henriette Solberg",
+        "club": "Skien",
+        "time": "54:54"
+      },
+      {
+        "pos": 10,
+        "name": "Kamilla Lund Solumsmo",
+        "club": "Skagerak Energi BIL",
+        "time": "55:07"
+      },
+      {
+        "pos": 11,
+        "name": "Gintare Baranauskiene",
+        "club": "Skien",
+        "time": "56:41"
+      },
+      {
+        "pos": 12,
+        "name": "Eirin Helen Flolid Fosse",
+        "club": "BPI",
+        "time": "56:43"
+      },
+      {
+        "pos": 13,
+        "name": "Ingrid Apesland Reisjø",
+        "club": "Porsgrunn",
+        "time": "57:17"
+      },
+      {
+        "pos": 14,
+        "name": "Mari Grønlid",
+        "club": "Porsgrunn",
+        "time": "57:26"
+      },
+      {
+        "pos": 15,
+        "name": "Marie Brekke",
+        "club": "Sundjordet",
+        "time": "57:42"
+      },
+      {
+        "pos": 16,
+        "name": "Cathrine Wright-Thomassen",
+        "club": "Porsgrunn",
+        "time": "59:29"
+      },
+      {
+        "pos": 17,
+        "name": "Mari Hustvedt Ramstad",
+        "club": "Stabekk",
+        "time": "59:51"
+      },
+      {
+        "pos": 18,
+        "name": "Carolyn Selliken",
+        "club": "Porsgrunn",
+        "time": "1:00:14"
+      },
+      {
+        "pos": 19,
+        "name": "Hanne Hustvedt",
+        "club": "Skien",
+        "time": "1:00:58"
+      },
+      {
+        "pos": 20,
+        "name": "Margrethe Mosdøl",
+        "club": "Heistad Løpeklubb Damer",
+        "time": "1:03:27"
+      },
+      {
+        "pos": 21,
+        "name": "Marlén Wessel Stubberød",
+        "club": "Skien",
+        "time": "1:03:36"
+      },
+      {
+        "pos": 22,
+        "name": "Anita Vagtberg",
+        "club": "Porsgrunn",
+        "time": "1:06:34"
+      },
+      {
+        "pos": 23,
+        "name": "Lisa Aksling",
+        "club": "Porsgrunn",
+        "time": "1:19:20"
+      }
+    ],
+    "M35-39": [
+      {
+        "pos": 1,
+        "name": "Thor Kristian Øvergaard",
+        "club": "Team Ingrid Kristiansen",
+        "time": "37:29"
+      },
+      {
+        "pos": 2,
+        "name": "Daniel Therkelsen Kongstvedt",
+        "club": "Heistad Løpeklubb",
+        "time": "38:11"
+      },
+      {
+        "pos": 3,
+        "name": "Daniel Warholm",
+        "club": "Gjerpen IF",
+        "time": "39:31"
+      },
+      {
+        "pos": 4,
+        "name": "Oskar Hjorth",
+        "club": "PwC BIL",
+        "time": "40:12"
+      },
+      {
+        "pos": 5,
+        "name": "Mads Nilsen",
+        "club": "Skagerak Energi BIL",
+        "time": "40:14"
+      },
+      {
+        "pos": 6,
+        "name": "Nicolai Ramstad",
+        "club": "Stabekk",
+        "time": "41:36"
+      },
+      {
+        "pos": 7,
+        "name": "Walied Færevik",
+        "club": "Skien",
+        "time": "42:27"
+      },
+      {
+        "pos": 8,
+        "name": "Bjarte Buene",
+        "club": "Bjarte Buene",
+        "time": "44:19"
+      },
+      {
+        "pos": 9,
+        "name": "Thomas Mørch",
+        "club": "Norconsult",
+        "time": "44:44"
+      },
+      {
+        "pos": 10,
+        "name": "Martin Mundal",
+        "club": "Trim, tur og Turngruppa",
+        "time": "45:40"
+      },
+      {
+        "pos": 11,
+        "name": "Mattis Øverli",
+        "club": "ABB Electrification AS",
+        "time": "46:32"
+      },
+      {
+        "pos": 12,
+        "name": "Henrik Forsaa",
+        "club": "Heistad Løpeklubb",
+        "time": "48:26"
+      },
+      {
+        "pos": 13,
+        "name": "Marius Viseth",
+        "club": "Oslo",
+        "time": "48:39"
+      },
+      {
+        "pos": 14,
+        "name": "Alexander Jørgensen",
+        "club": "Porsgrunn",
+        "time": "48:45"
+      },
+      {
+        "pos": 15,
+        "name": "Agon Pireva",
+        "club": "Skulle Ønske jeg var en del av HLK",
+        "time": "48:55"
+      },
+      {
+        "pos": 16,
+        "name": "Fredrik Wågene",
+        "club": "Porsgrunn",
+        "time": "49:16"
+      },
+      {
+        "pos": 17,
+        "name": "Petter Semb",
+        "club": "ABB BIL",
+        "time": "50:29"
+      },
+      {
+        "pos": 18,
+        "name": "Christian Grav",
+        "club": "USN",
+        "time": "50:59"
+      },
+      {
+        "pos": 19,
+        "name": "Stefan Bollo",
+        "club": "Eiffage",
+        "time": "54:07"
+      },
+      {
+        "pos": 20,
+        "name": "Lars Farstad",
+        "club": "Sweco",
+        "time": "54:19"
+      },
+      {
+        "pos": 21,
+        "name": "Audun Hansen",
+        "club": "Horten",
+        "time": "54:23"
+      },
+      {
+        "pos": 22,
+        "name": "Andreas Trillo Larner",
+        "club": "Skien",
+        "time": "54:28"
+      },
+      {
+        "pos": 23,
+        "name": "Chris Pedersen",
+        "club": "Porsgrunn",
+        "time": "54:31"
+      },
+      {
+        "pos": 24,
+        "name": "Christer Brekke",
+        "club": "Porsgrunn",
+        "time": "56:15"
+      },
+      {
+        "pos": 25,
+        "name": "Jon Salvesen",
+        "club": "Abax As",
+        "time": "56:25"
+      },
+      {
+        "pos": 26,
+        "name": "Simen Jørgensen",
+        "club": "Bilfinger",
+        "time": "56:31"
+      },
+      {
+        "pos": 27,
+        "name": "Thomas Rydland",
+        "club": "Skien",
+        "time": "57:52"
+      },
+      {
+        "pos": 28,
+        "name": "Bård Tangen Nilsson",
+        "club": "Porsgrunn",
+        "time": "59:47"
+      },
+      {
+        "pos": 29,
+        "name": "Martin Åshol Bekkevold",
+        "club": "Stathelle",
+        "time": "1:00:46"
+      },
+      {
+        "pos": 30,
+        "name": "Tony Aaltvedt",
+        "club": "Løpegjengen",
+        "time": "1:05:12"
+      },
+      {
+        "pos": 31,
+        "name": "Stian Tandberg",
+        "club": "Skagerak Energi BIL",
+        "time": "1:06:37"
+      }
+    ],
+    "K40-44": [
+      {
+        "pos": 1,
+        "name": "Camilla Sigurdsen",
+        "club": "Skien",
+        "time": "49:23"
+      },
+      {
+        "pos": 2,
+        "name": "Terese Gjærum",
+        "club": "Gjerpen IF",
+        "time": "49:35"
+      },
+      {
+        "pos": 3,
+        "name": "Ellen Sofie Iversen",
+        "club": "Oslo",
+        "time": "50:19"
+      },
+      {
+        "pos": 4,
+        "name": "Linn Kaarstein",
+        "club": "Porsgrunn",
+        "time": "53:10"
+      },
+      {
+        "pos": 5,
+        "name": "Tove Mette Lohne",
+        "club": "Heistad Løpeklubb Damer",
+        "time": "56:00"
+      },
+      {
+        "pos": 5,
+        "name": "Linn Hasaas",
+        "club": "Heistad Løpeklubb Damer",
+        "time": "56:00"
+      },
+      {
+        "pos": 7,
+        "name": "Tina Johansen",
+        "club": "Heistad Løpeklubb Damer",
+        "time": "56:21"
+      },
+      {
+        "pos": 8,
+        "name": "Ingvild Grønstein",
+        "club": "Porsgrunn",
+        "time": "58:21"
+      },
+      {
+        "pos": 9,
+        "name": "Lillian Maria Eilevstjønn",
+        "club": "Skien",
+        "time": "59:22"
+      },
+      {
+        "pos": 10,
+        "name": "Linn Håkonsen",
+        "club": "Porsgrunn",
+        "time": "59:25"
+      },
+      {
+        "pos": 11,
+        "name": "Mette Jacobsen",
+        "club": "Helle",
+        "time": "1:09:22"
+      },
+      {
+        "pos": 12,
+        "name": "Ann Christin Gamst",
+        "club": "Barneavdelingen",
+        "time": "1:11:07"
+      },
+      {
+        "pos": 13,
+        "name": "Åste Kristine Gunleiksrud",
+        "club": "Skien",
+        "time": "1:23:48"
+      }
+    ],
+    "M40-44": [
+      {
+        "pos": 1,
+        "name": "Øyvind Løvold Busk",
+        "club": "Gulset Slowrunners",
+        "time": "39:45"
+      },
+      {
+        "pos": 2,
+        "name": "Stian Naustdal",
+        "club": "Caverion Herøya",
+        "time": "45:23"
+      },
+      {
+        "pos": 3,
+        "name": "Marius Jansen",
+        "club": "Radio Grenland",
+        "time": "45:54"
+      },
+      {
+        "pos": 4,
+        "name": "Tom Caspersen",
+        "club": "Yess",
+        "time": "47:32"
+      },
+      {
+        "pos": 5,
+        "name": "Simen Reigstad",
+        "club": "Porsgrunn",
+        "time": "48:10"
+      },
+      {
+        "pos": 6,
+        "name": "Dag Myhre",
+        "club": "Porsgrunn",
+        "time": "49:12"
+      },
+      {
+        "pos": 7,
+        "name": "Bernt Håvard Olsen",
+        "club": "ABB",
+        "time": "49:59"
+      },
+      {
+        "pos": 8,
+        "name": "Bård Olsen",
+        "club": "Bård Olsen / Jan-Erik Olsen Kjøkken og Glass AS",
+        "time": "50:09"
+      },
+      {
+        "pos": 9,
+        "name": "Espen Meland",
+        "club": "Kristiansand Løpeklubb",
+        "time": "50:30"
+      },
+      {
+        "pos": 10,
+        "name": "Tor Midtbø",
+        "club": "Ølklubben",
+        "time": "53:09"
+      },
+      {
+        "pos": 11,
+        "name": "Roger Aamodt",
+        "club": "Nii’S Overtid og Undertrening",
+        "time": "54:28"
+      },
+      {
+        "pos": 12,
+        "name": "Vetle Wallestad",
+        "club": "Skien",
+        "time": "56:25"
+      },
+      {
+        "pos": 12,
+        "name": "Anders Groa",
+        "club": "Herkules IF",
+        "time": "56:25"
+      },
+      {
+        "pos": 14,
+        "name": "Henrik Rybråten",
+        "club": "Yess",
+        "time": "58:21"
+      },
+      {
+        "pos": 15,
+        "name": "Kai-Morten Slåen",
+        "club": "Rustfri Spesial Produksjon",
+        "time": "1:00:17"
+      },
+      {
+        "pos": 16,
+        "name": "Simon Brage Høimyr",
+        "club": "Porsgrunn",
+        "time": "1:01:43"
+      },
+      {
+        "pos": 17,
+        "name": "Stian Bækkevold",
+        "club": "Skien",
+        "time": "1:05:33"
+      }
+    ],
+    "K45-49": [
+      {
+        "pos": 1,
+        "name": "Trine-Lise Thomassen",
+        "club": "Porsgrunn",
+        "time": "53:11"
+      },
+      {
+        "pos": 2,
+        "name": "Camilla Thull",
+        "club": "Heistad Løpeklubb Damer",
+        "time": "54:28"
+      },
+      {
+        "pos": 3,
+        "name": "Elin Merganov",
+        "club": "Helle",
+        "time": "55:07"
+      },
+      {
+        "pos": 4,
+        "name": "Aline Craide",
+        "club": "Skien",
+        "time": "1:04:11"
+      },
+      {
+        "pos": 5,
+        "name": "Sabine Gehring",
+        "club": "Miljøpartiet de Grønne",
+        "time": "1:04:27"
+      },
+      {
+        "pos": 6,
+        "name": "Nancy Grini",
+        "club": "Heia",
+        "time": "1:06:36"
+      }
+    ],
+    "M45-49": [
+      {
+        "pos": 1,
+        "name": "Stig Engebretsen",
+        "club": "DNB Eiendom",
+        "time": "35:40"
+      },
+      {
+        "pos": 2,
+        "name": "Sondre Stahlsberg",
+        "club": "Langesund TRI",
+        "time": "38:40"
+      },
+      {
+        "pos": 3,
+        "name": "Petter E. Iversen",
+        "club": "Team Reload",
+        "time": "44:43"
+      },
+      {
+        "pos": 4,
+        "name": "Bendik Eliassen",
+        "club": "Larvik",
+        "time": "46:33"
+      },
+      {
+        "pos": 5,
+        "name": "Tor Olav Stadskleiv",
+        "club": "Porsgrunn",
+        "time": "46:39"
+      },
+      {
+        "pos": 6,
+        "name": "Anders Omsland",
+        "club": "Telenor BIL",
+        "time": "47:23"
+      },
+      {
+        "pos": 7,
+        "name": "Ronny Johnsen",
+        "club": "Skagerrak Sportsklubb",
+        "time": "47:58"
+      },
+      {
+        "pos": 8,
+        "name": "Stian Gulbrandsen",
+        "club": "Siljan IL",
+        "time": "53:19"
+      },
+      {
+        "pos": 9,
+        "name": "Andreas Dalsegg",
+        "club": "Stortingets Idrettslag",
+        "time": "59:51"
+      },
+      {
+        "pos": 10,
+        "name": "Kent Are Nero",
+        "club": "Skien",
+        "time": "1:03:20"
+      },
+      {
+        "pos": 11,
+        "name": "Roy Castro",
+        "club": "Porsgrunn",
+        "time": "1:10:33"
+      },
+      {
+        "pos": 12,
+        "name": "Geir Solgaard",
+        "club": "Kristiansand S",
+        "time": "1:14:21"
+      }
+    ],
+    "K50-54": [
+      {
+        "pos": 1,
+        "name": "Veronica Wågene",
+        "club": "HLK",
+        "time": "49:15"
+      },
+      {
+        "pos": 2,
+        "name": "Marte Nyheim",
+        "club": "Slomo",
+        "time": "55:00"
+      },
+      {
+        "pos": 3,
+        "name": "Mette Larsen",
+        "club": "Søstrene Larsen",
+        "time": "56:37"
+      },
+      {
+        "pos": 4,
+        "name": "Trude Kaland",
+        "club": "Porsgrunn",
+        "time": "57:35"
+      },
+      {
+        "pos": 5,
+        "name": "Tone Kvåle",
+        "club": "Langangen",
+        "time": "58:37"
+      },
+      {
+        "pos": 6,
+        "name": "Vibeke Rasmussen",
+        "club": "Porsgrunn",
+        "time": "1:00:40"
+      },
+      {
+        "pos": 7,
+        "name": "Birgitte Giæver Johnsen",
+        "club": "Heistad Løpeklubb Damer",
+        "time": "1:02:11"
+      },
+      {
+        "pos": 8,
+        "name": "Linda Andresen",
+        "club": "Tolvsrød",
+        "time": "1:03:03"
+      },
+      {
+        "pos": 9,
+        "name": "Jeanette Holtan",
+        "club": "Porsgrunn",
+        "time": "1:13:08"
+      },
+      {
+        "pos": 10,
+        "name": "May-Lisa Lanto",
+        "club": "Skien",
+        "time": "1:18:33"
+      }
+    ],
+    "M50-54": [
+      {
+        "pos": 1,
+        "name": "Stein Erik Breivikås",
+        "club": "Ogndal Il/Spreke Karer",
+        "time": "39:56"
+      },
+      {
+        "pos": 2,
+        "name": "Rune Taranger",
+        "club": "Drøbak",
+        "time": "46:38"
+      },
+      {
+        "pos": 3,
+        "name": "Steinar Bjelland",
+        "club": "Yess",
+        "time": "46:51"
+      },
+      {
+        "pos": 4,
+        "name": "Christian Enger",
+        "club": "Sweco",
+        "time": "49:23"
+      },
+      {
+        "pos": 5,
+        "name": "Thomas Olsen",
+        "club": "Porsgrunn",
+        "time": "50:22"
+      },
+      {
+        "pos": 6,
+        "name": "Lars Stokke",
+        "club": "MDG Porsgrunn",
+        "time": "54:11"
+      },
+      {
+        "pos": 7,
+        "name": "Ilker Gur",
+        "club": "Porsgrunn",
+        "time": "54:33"
+      },
+      {
+        "pos": 8,
+        "name": "Haavard Falkenstein",
+        "club": "ABB BIL",
+        "time": "55:28"
+      },
+      {
+        "pos": 9,
+        "name": "Ole Johnny Bergum",
+        "club": "Skien",
+        "time": "57:48"
+      },
+      {
+        "pos": 10,
+        "name": "Olav Kvåle",
+        "club": "Langangen",
+        "time": "58:20"
+      },
+      {
+        "pos": 11,
+        "name": "Ove Randow",
+        "club": "Porsgrunn",
+        "time": "59:11"
+      },
+      {
+        "pos": 12,
+        "name": "Fredrik Strøm",
+        "club": "Telemarksavisa",
+        "time": "1:03:15"
+      },
+      {
+        "pos": 13,
+        "name": "Terje Bråthen",
+        "club": "Sande I Vestfold",
+        "time": "1:03:24"
+      }
+    ],
+    "K55-59": [
+      {
+        "pos": 1,
+        "name": "Heidi Tveitdal Nilsen",
+        "club": "Horten",
+        "time": "52:07"
+      },
+      {
+        "pos": 2,
+        "name": "Heidi Solbakken",
+        "club": "Asker",
+        "time": "57:57"
+      },
+      {
+        "pos": 3,
+        "name": "Merete Høgseth Kronstad",
+        "club": "Porsgrunn",
+        "time": "1:03:53"
+      },
+      {
+        "pos": 4,
+        "name": "Reidun Vinje",
+        "club": "Sprek Downtown",
+        "time": "1:04:26"
+      },
+      {
+        "pos": 5,
+        "name": "Merete Espe Christiansen",
+        "club": "Porsgrunn",
+        "time": "1:10:33"
+      }
+    ],
+    "M55-59": [
+      {
+        "pos": 1,
+        "name": "Tom Roger Vege-Tangen",
+        "club": "Namdal Løpeklubb",
+        "time": "36:11"
+      },
+      {
+        "pos": 2,
+        "name": "Raymond Albrigtsen",
+        "club": "Langesund Sykle- og Triathlonklubb",
+        "time": "40:02"
+      },
+      {
+        "pos": 3,
+        "name": "Geir Vala",
+        "club": "Porsgrunn",
+        "time": "46:38"
+      },
+      {
+        "pos": 4,
+        "name": "Helljar Kvandal",
+        "club": "Radio Grenland",
+        "time": "47:14"
+      },
+      {
+        "pos": 5,
+        "name": "David Sanna",
+        "club": "Porsgrunn",
+        "time": "47:51"
+      },
+      {
+        "pos": 6,
+        "name": "Terje Olaussen",
+        "club": "Skien",
+        "time": "49:01"
+      },
+      {
+        "pos": 7,
+        "name": "Joachim Gjertsen",
+        "club": "Caverion",
+        "time": "50:14"
+      },
+      {
+        "pos": 8,
+        "name": "Thor-Øyvind Follaug",
+        "club": "Team Vealøs",
+        "time": "50:20"
+      },
+      {
+        "pos": 9,
+        "name": "Hans Jørgen Andersen",
+        "club": "Porsgrunn",
+        "time": "52:38"
+      },
+      {
+        "pos": 10,
+        "name": "Arild Jensen",
+        "club": "IF Skidar",
+        "time": "55:36"
+      },
+      {
+        "pos": 11,
+        "name": "Gøran Isaksen",
+        "club": "Langesund tri",
+        "time": "56:30"
+      },
+      {
+        "pos": 12,
+        "name": "Sergio Augusto Esteves",
+        "club": "Eiffage",
+        "time": "57:59"
+      },
+      {
+        "pos": 13,
+        "name": "Sjur Morten Lund",
+        "club": "Skagerak Energi BIL",
+        "time": "59:18"
+      },
+      {
+        "pos": 14,
+        "name": "Stig Solum",
+        "club": "Porsgrunn",
+        "time": "1:13:43"
+      },
+      {
+        "pos": 15,
+        "name": "Vidar Andersen",
+        "club": "Eidanger IL",
+        "time": "1:18:34"
+      }
+    ],
+    "K60-64": [
+      {
+        "pos": 1,
+        "name": "Hilde Holt",
+        "club": "Skien",
+        "time": "57:37"
+      },
+      {
+        "pos": 2,
+        "name": "Solfrid Erlingsen",
+        "club": "Tjøme Løpeklubb",
+        "time": "58:32"
+      },
+      {
+        "pos": 3,
+        "name": "Sølvi Abrahamsen",
+        "club": "Sølvi Abrahamsen",
+        "time": "1:00:24"
+      }
+    ],
+    "M60-64": [
+      {
+        "pos": 1,
+        "name": "Torgeir Tysnes",
+        "club": "ABB Electrification Norway AS",
+        "time": "57:18"
+      },
+      {
+        "pos": 2,
+        "name": "Helge Rutle",
+        "club": "Asker",
+        "time": "1:01:52"
+      },
+      {
+        "pos": 3,
+        "name": "Finn Jørgensen",
+        "club": "Porsgrunn",
+        "time": "1:04:12"
+      }
+    ],
+    "K65-69": [
+      {
+        "pos": 1,
+        "name": "Gro Bakke Eriksen",
+        "club": "Eidanger",
+        "time": "1:08:36"
+      }
+    ],
+    "M65-69": [
+      {
+        "pos": 1,
+        "name": "Jan Hasseleid",
+        "club": "Helle",
+        "time": "45:01"
+      },
+      {
+        "pos": 2,
+        "name": "Bård Erland Sprakehaug",
+        "club": "Privat",
+        "time": "49:48"
+      },
+      {
+        "pos": 3,
+        "name": "Gunnar Lie",
+        "club": "Gjerpen",
+        "time": "50:06"
+      },
+      {
+        "pos": 4,
+        "name": "Vidar Sandnæs",
+        "club": "Drøbak Frogn Idrettslag",
+        "time": "57:02"
+      },
+      {
+        "pos": 5,
+        "name": "Per Arthur Larsen",
+        "club": "Skien",
+        "time": "59:30"
+      },
+      {
+        "pos": 6,
+        "name": "Morten Brekke",
+        "club": "Porsgrunn",
+        "time": "1:00:01"
+      },
+      {
+        "pos": 7,
+        "name": "Ole Kristoffer Borhaug",
+        "club": "Porsgrunn",
+        "time": "1:02:14"
+      },
+      {
+        "pos": 8,
+        "name": "Jan Salvesen",
+        "club": "Skien",
+        "time": "1:04:30"
+      },
+      {
+        "pos": 9,
+        "name": "Per Arstein",
+        "club": "Skien",
+        "time": "1:05:37"
+      }
+    ],
+    "M70-74": [
+      {
+        "pos": 1,
+        "name": "Svein Stranddal",
+        "club": "Gjerpen",
+        "time": "44:20"
+      },
+      {
+        "pos": 2,
+        "name": "Kjell Gulbrandsen",
+        "club": "Skien",
+        "time": "55:32"
+      }
+    ],
+    "K75+": [
+      {
+        "pos": 1,
+        "name": "Magni Hals Engseth",
+        "club": "Stathelle",
+        "time": "1:27:25"
+      }
+    ]
+  },
+  "21.1km": {
+    "K16-17": [
+      {
+        "pos": 1,
+        "name": "Emmie Albertine Gajicberg",
+        "club": "Porsgrunn",
+        "time": "1:56:55"
+      },
+      {
+        "pos": 2,
+        "name": "Eli Constanse Kristoffersen",
+        "club": "Heistad",
+        "time": "2:14:41"
+      }
+    ],
+    "M16-17": [
+      {
+        "pos": 1,
+        "name": "Mikkel Jordbakke",
+        "club": "Sport 1 Porsgrunn",
+        "time": "1:28:45"
+      },
+      {
+        "pos": 2,
+        "name": "Sebastian Rekvik",
+        "club": "Gjerpen IF",
+        "time": "1:35:05"
+      },
+      {
+        "pos": 3,
+        "name": "Fredrik Aure",
+        "club": "Sport1 Porsgrunn",
+        "time": "1:35:43"
+      },
+      {
+        "pos": 4,
+        "name": "Alvar Momrak",
+        "club": "Porsgrunn",
+        "time": "1:56:11"
+      },
+      {
+        "pos": 5,
+        "name": "Ludvik Helland-Svendsen",
+        "club": "Porsgrunn",
+        "time": "1:57:43"
+      },
+      {
+        "pos": 6,
+        "name": "Mathias Larsen",
+        "club": "Stathelle",
+        "time": "1:59:04"
+      }
+    ],
+    "K18-19": [
+      {
+        "pos": 1,
+        "name": "Augusta Hylland-Eriksen",
+        "club": "Porsgrunn",
+        "time": "1:55:22"
+      }
+    ],
+    "M18-19": [
+      {
+        "pos": 1,
+        "name": "Martin Helland",
+        "club": "Skien",
+        "time": "1:54:40"
+      },
+      {
+        "pos": 2,
+        "name": "Christian Klein-Holmen",
+        "club": "Porsgrunn",
+        "time": "2:08:06"
+      },
+      {
+        "pos": 3,
+        "name": "David Kristiansen",
+        "club": "Skien",
+        "time": "2:40:56"
+      }
+    ],
+    "K20-22": [
+      {
+        "pos": 1,
+        "name": "Frida Bjørnstad",
+        "club": "Porsgrunn",
+        "time": "1:41:56"
+      },
+      {
+        "pos": 2,
+        "name": "Maja Hansen Pedersen",
+        "club": "Herre",
+        "time": "1:58:56"
+      },
+      {
+        "pos": 3,
+        "name": "Wiktoria Lubek",
+        "club": "Oslo",
+        "time": "2:15:13"
+      },
+      {
+        "pos": 4,
+        "name": "Elise Surtevju",
+        "club": "Notodden",
+        "time": "2:16:24"
+      },
+      {
+        "pos": 5,
+        "name": "Randi Lunde",
+        "club": "Porsgrunn",
+        "time": "2:25:09"
+      }
+    ],
+    "M20-22": [
+      {
+        "pos": 1,
+        "name": "Ole Petter Husmo",
+        "club": "Porsgrunn",
+        "time": "1:32:09"
+      },
+      {
+        "pos": 2,
+        "name": "Sebastian Rossvoll Gundersen",
+        "club": "Porsgrunn",
+        "time": "1:39:49"
+      },
+      {
+        "pos": 3,
+        "name": "Noah Wikmark",
+        "club": "Sandefjord",
+        "time": "1:43:20"
+      },
+      {
+        "pos": 4,
+        "name": "Gunhild Stople",
+        "club": "Porsgrunn",
+        "time": "1:51:22"
+      },
+      {
+        "pos": 5,
+        "name": "Mathias Aure",
+        "club": "Sport 1 Porsgrunn",
+        "time": "1:51:45"
+      },
+      {
+        "pos": 6,
+        "name": "Tommy Knutsen",
+        "club": "Skien",
+        "time": "1:51:47"
+      },
+      {
+        "pos": 7,
+        "name": "Nicolay Dewey Pettersen",
+        "club": "Porsgrunn",
+        "time": "1:54:16"
+      },
+      {
+        "pos": 8,
+        "name": "Victor Gressier",
+        "club": "Eiffage",
+        "time": "1:58:02"
+      },
+      {
+        "pos": 9,
+        "name": "Mathias Malek Johnsen",
+        "club": "Sport 1 Porsgrunn",
+        "time": "1:59:53"
+      },
+      {
+        "pos": 10,
+        "name": "Kylian Puthod",
+        "club": "Eiffage",
+        "time": "2:01:58"
+      },
+      {
+        "pos": 11,
+        "name": "Simen Lyngestad Førli",
+        "club": "Bergen",
+        "time": "2:07:40"
+      },
+      {
+        "pos": 12,
+        "name": "Erlend Mathias Christie-Otnes",
+        "club": "Stathelle",
+        "time": "2:09:29"
+      },
+      {
+        "pos": 13,
+        "name": "Antoine Berot",
+        "club": "Eiffage",
+        "time": "2:13:24"
+      },
+      {
+        "pos": 14,
+        "name": "Tobias Forbord Lunde",
+        "club": "Porsgrunn",
+        "time": "2:25:13"
+      }
+    ],
+    "K23-34": [
+      {
+        "pos": 1,
+        "name": "Linn Stråbø",
+        "club": "Oslo",
+        "time": "1:21:35"
+      },
+      {
+        "pos": 2,
+        "name": "Marie Fornes Danielsen",
+        "club": "Lørenskog",
+        "time": "1:26:51"
+      },
+      {
+        "pos": 3,
+        "name": "Mari Elvira Førland",
+        "club": "Equinor BIL",
+        "time": "1:27:54"
+      },
+      {
+        "pos": 4,
+        "name": "Emilie Ekeli Larsen",
+        "club": "Oslo",
+        "time": "1:32:12"
+      },
+      {
+        "pos": 5,
+        "name": "Susanne Isaksen",
+        "club": "Heistad Løpeklubb Damer/Langesund Tri",
+        "time": "1:36:09"
+      },
+      {
+        "pos": 6,
+        "name": "Roza Rahimzadeh",
+        "club": "Langesund Tri",
+        "time": "1:39:00"
+      },
+      {
+        "pos": 7,
+        "name": "Kristin Albrigtsen",
+        "club": "Oslo",
+        "time": "1:41:32"
+      },
+      {
+        "pos": 8,
+        "name": "Lene Olsen",
+        "club": "Oslo",
+        "time": "1:43:39"
+      },
+      {
+        "pos": 9,
+        "name": "Marit Dalen Andersen",
+        "club": "Skien",
+        "time": "1:44:12"
+      },
+      {
+        "pos": 10,
+        "name": "Anna Wegener",
+        "club": "Weimar",
+        "time": "1:45:01"
+      },
+      {
+        "pos": 11,
+        "name": "Silje Kaasa Moen",
+        "club": "Oslo",
+        "time": "1:45:48"
+      },
+      {
+        "pos": 12,
+        "name": "Martine Dale Møane",
+        "club": "Heistad Løpeklubb Damer",
+        "time": "1:46:38"
+      },
+      {
+        "pos": 13,
+        "name": "Laurine Herman",
+        "club": "Eiffage",
+        "time": "1:48:45"
+      },
+      {
+        "pos": 14,
+        "name": "Stine Elisabeth Nøddebo",
+        "club": "Heistad Løpeklubb Damer",
+        "time": "1:49:09"
+      },
+      {
+        "pos": 15,
+        "name": "Anette Sikkeland Reinholdsen",
+        "club": "Stathelle",
+        "time": "1:51:28"
+      },
+      {
+        "pos": 16,
+        "name": "Oda Eikenes Røsaker",
+        "club": "Hallingskarvet Helsesportslag",
+        "time": "1:52:39"
+      },
+      {
+        "pos": 17,
+        "name": "Ane Randulff",
+        "club": "Skien",
+        "time": "1:53:22"
+      },
+      {
+        "pos": 18,
+        "name": "Vilde Villanger-Tvedt",
+        "club": "Skien",
+        "time": "1:54:59"
+      },
+      {
+        "pos": 19,
+        "name": "Maren Synnøve Ørvik",
+        "club": "Heistad Løpeklubb Damer",
+        "time": "1:56:21"
+      },
+      {
+        "pos": 20,
+        "name": "Vårin Larsen",
+        "club": "Porsgrunn",
+        "time": "1:57:46"
+      },
+      {
+        "pos": 21,
+        "name": "Maria Jensen",
+        "club": "Skien",
+        "time": "1:59:01"
+      },
+      {
+        "pos": 22,
+        "name": "Tonje Bastesen",
+        "club": "Porsgrunn",
+        "time": "1:59:26"
+      },
+      {
+        "pos": 23,
+        "name": "Nora Sivertsen",
+        "club": "Skien",
+        "time": "1:59:52"
+      },
+      {
+        "pos": 24,
+        "name": "Marte Birkeland Sandvoll",
+        "club": "Heistad Løpeklubb Damer",
+        "time": "2:00:00"
+      },
+      {
+        "pos": 25,
+        "name": "Madeleine Thorstein",
+        "club": "Stavern",
+        "time": "2:00:36"
+      },
+      {
+        "pos": 26,
+        "name": "Emilie Olsen",
+        "club": "Stathelle",
+        "time": "2:01:51"
+      },
+      {
+        "pos": 27,
+        "name": "Nora Kristine Paulsen",
+        "club": "Oslo",
+        "time": "2:02:03"
+      },
+      {
+        "pos": 28,
+        "name": "Marie Skaadel Behring",
+        "club": "Oslo",
+        "time": "2:03:11"
+      },
+      {
+        "pos": 29,
+        "name": "Maria Strand",
+        "club": "Porsgrunn",
+        "time": "2:04:25"
+      },
+      {
+        "pos": 30,
+        "name": "Victoria Tao",
+        "club": "Skien",
+        "time": "2:04:55"
+      },
+      {
+        "pos": 31,
+        "name": "Farah Zekhnini",
+        "club": "Skien",
+        "time": "2:06:15"
+      },
+      {
+        "pos": 32,
+        "name": "Vilde K. Laagasken",
+        "club": "Porsgrunn",
+        "time": "2:07:59"
+      },
+      {
+        "pos": 33,
+        "name": "Annika Gregil",
+        "club": "Tønsberg",
+        "time": "2:10:53"
+      },
+      {
+        "pos": 34,
+        "name": "Bettina Evjen",
+        "club": "Porsgrunn",
+        "time": "2:11:41"
+      },
+      {
+        "pos": 35,
+        "name": "Maria Sølie",
+        "club": "Skien",
+        "time": "2:12:45"
+      },
+      {
+        "pos": 36,
+        "name": "Kaia Sørenmo",
+        "club": "Oslo",
+        "time": "2:14:44"
+      },
+      {
+        "pos": 37,
+        "name": "Malin Knutson Laagasken",
+        "club": "Eiffage",
+        "time": "2:14:50"
+      },
+      {
+        "pos": 38,
+        "name": "Susann Bjerkseth",
+        "club": "Skien",
+        "time": "2:14:59"
+      },
+      {
+        "pos": 39,
+        "name": "Heidi Nøklegaard",
+        "club": "Porsgrunn",
+        "time": "2:15:14"
+      },
+      {
+        "pos": 40,
+        "name": "Mari Lindkjenn Bø",
+        "club": "Skien",
+        "time": "2:16:08"
+      },
+      {
+        "pos": 41,
+        "name": "Annemette Olstad",
+        "club": "Stathelle",
+        "time": "2:16:20"
+      },
+      {
+        "pos": 42,
+        "name": "Celine Ellefsen",
+        "club": "Uppanånatåli",
+        "time": "2:16:21"
+      },
+      {
+        "pos": 43,
+        "name": "Solveig Løchen",
+        "club": "Brattås IL",
+        "time": "2:17:52"
+      },
+      {
+        "pos": 44,
+        "name": "Catrine Haugen Evensen",
+        "club": "Notodden",
+        "time": "2:18:17"
+      },
+      {
+        "pos": 45,
+        "name": "Kristin Risinggård",
+        "club": "Skien",
+        "time": "2:18:44"
+      },
+      {
+        "pos": 46,
+        "name": "Kine Fliflet",
+        "club": "Andebu",
+        "time": "2:20:41"
+      },
+      {
+        "pos": 47,
+        "name": "Bertille Giroux",
+        "club": "Eiffage Norge",
+        "time": "2:22:32"
+      },
+      {
+        "pos": 48,
+        "name": "Kim Élin Sigurdsen",
+        "club": "Skien",
+        "time": "2:23:05"
+      },
+      {
+        "pos": 49,
+        "name": "Marie Grøtterud",
+        "club": "Kvelde IL",
+        "time": "2:23:09"
+      },
+      {
+        "pos": 50,
+        "name": "Nora Mysen Conradsen",
+        "club": "Girlboss Legends",
+        "time": "2:23:16"
+      },
+      {
+        "pos": 51,
+        "name": "Thea Marthinsen",
+        "club": "Porsgrunn",
+        "time": "2:23:34"
+      },
+      {
+        "pos": 52,
+        "name": "Ida Vestengen",
+        "club": "Brevik",
+        "time": "2:23:35"
+      },
+      {
+        "pos": 53,
+        "name": "Frida Fjellving Andersen 2:25:26",
+        "club": "54) Stine Marie Oterholt Knutsen, Barneavdelingen",
+        "time": "2:30:24"
+      },
+      {
+        "pos": 55,
+        "name": "Mina Alette Johnsen",
+        "club": "Hafslundsøy",
+        "time": "2:30:58"
+      },
+      {
+        "pos": 56,
+        "name": "Julie Syverinsen",
+        "club": "Skien",
+        "time": "2:33:43"
+      },
+      {
+        "pos": 57,
+        "name": "Madeleine Belsvik Haugseter",
+        "club": "Skien",
+        "time": "2:37:19"
+      },
+      {
+        "pos": 58,
+        "name": "Marte Brødsjø",
+        "club": "Kragerø",
+        "time": "2:39:32"
+      },
+      {
+        "pos": 59,
+        "name": "Jeanett Pettersen",
+        "club": "Skien",
+        "time": "2:43:18"
+      },
+      {
+        "pos": 60,
+        "name": "Lene Martini Samland",
+        "club": "Skien",
+        "time": "2:44:59"
+      },
+      {
+        "pos": 61,
+        "name": "Oda Lundberg",
+        "club": "Risør",
+        "time": "2:47:19"
+      },
+      {
+        "pos": 62,
+        "name": "Lilly Haugane",
+        "club": "Siljan",
+        "time": "3:18:53"
+      }
+    ],
+    "M23-34": [
+      {
+        "pos": 1,
+        "name": "Arve Listaul",
+        "club": "Seljord",
+        "time": "1:15:27"
+      },
+      {
+        "pos": 2,
+        "name": "Ole Heldal",
+        "club": "Solberg Bil",
+        "time": "1:15:28"
+      },
+      {
+        "pos": 3,
+        "name": "Emil Folkvard Bråthen",
+        "club": "Siljan IL Løpeklubb",
+        "time": "1:18:11"
+      },
+      {
+        "pos": 4,
+        "name": "Kristoffer Haugrud",
+        "club": "Porsgrunn",
+        "time": "1:19:29"
+      },
+      {
+        "pos": 5,
+        "name": "Sebastian Numme",
+        "club": "Solberg Bil",
+        "time": "1:20:00"
+      },
+      {
+        "pos": 6,
+        "name": "Martin Hansen",
+        "club": "Tårnåsen",
+        "time": "1:20:12"
+      },
+      {
+        "pos": 7,
+        "name": "Andreas Grøgaard",
+        "club": "Breaking Marathon Limits",
+        "time": "1:20:39"
+      },
+      {
+        "pos": 8,
+        "name": "Daniel Skjelhaugen",
+        "club": "Asicsfrontrunner",
+        "time": "1:26:16"
+      },
+      {
+        "pos": 9,
+        "name": "Andre Juvland",
+        "club": "Oslo",
+        "time": "1:27:51"
+      },
+      {
+        "pos": 10,
+        "name": "Øystein Pedersen",
+        "club": "Skien",
+        "time": "1:28:06"
+      },
+      {
+        "pos": 11,
+        "name": "Andre Rolandsen",
+        "club": "Deloitte BIL",
+        "time": "1:28:18"
+      },
+      {
+        "pos": 12,
+        "name": "Joakim Randulff",
+        "club": "Oslo",
+        "time": "1:28:44"
+      },
+      {
+        "pos": 13,
+        "name": "Preben Sætervik",
+        "club": "ABB BIL",
+        "time": "1:29:11"
+      },
+      {
+        "pos": 14,
+        "name": "Kristian Sæland",
+        "club": "Oslo",
+        "time": "1:29:27"
+      },
+      {
+        "pos": 15,
+        "name": "Sander Mo",
+        "club": "Skien",
+        "time": "1:30:05"
+      },
+      {
+        "pos": 16,
+        "name": "Frederik Michaelis",
+        "club": "Porsgrunn",
+        "time": "1:30:30"
+      },
+      {
+        "pos": 17,
+        "name": "Fredrik Sivertsen",
+        "club": "Skien",
+        "time": "1:30:56"
+      },
+      {
+        "pos": 18,
+        "name": "Jesper van der Molen",
+        "club": "Bilfinger",
+        "time": "1:31:07"
+      },
+      {
+        "pos": 19,
+        "name": "Marius Pettersen",
+        "club": "Veidekke BIL",
+        "time": "1:31:47"
+      },
+      {
+        "pos": 20,
+        "name": "Ole Bjørn Dahl",
+        "club": "Latri",
+        "time": "1:31:56"
+      },
+      {
+        "pos": 21,
+        "name": "Erik Bjørbæk Iversen",
+        "club": "Ebitech AS",
+        "time": "1:32:00"
+      },
+      {
+        "pos": 22,
+        "name": "Dennis Poliku Dalip",
+        "club": "Porsgrunn",
+        "time": "1:33:17"
+      },
+      {
+        "pos": 23,
+        "name": "Ole Marius Strand",
+        "club": "Skien",
+        "time": "1:34:35"
+      },
+      {
+        "pos": 24,
+        "name": "Kjartan Brynjarsson",
+        "club": "Porsgrunn",
+        "time": "1:35:31"
+      },
+      {
+        "pos": 25,
+        "name": "Syver Slnsterud",
+        "club": "Oslo",
+        "time": "1:36:33"
+      },
+      {
+        "pos": 26,
+        "name": "Robin Bergum",
+        "club": "Porsgrunn",
+        "time": "1:37:40"
+      },
+      {
+        "pos": 27,
+        "name": "Trond-Vidar Steen Hansen",
+        "club": "Steen-Hansen Maskin AS",
+        "time": "1:37:48"
+      },
+      {
+        "pos": 28,
+        "name": "Tor Skog",
+        "club": "Oslo",
+        "time": "1:38:07"
+      },
+      {
+        "pos": 29,
+        "name": "Steinar Aarum",
+        "club": "Kvartlivskriseløperne",
+        "time": "1:38:49"
+      },
+      {
+        "pos": 30,
+        "name": "Thorleif Brubakken",
+        "club": "Bamble If",
+        "time": "1:38:50"
+      },
+      {
+        "pos": 31,
+        "name": "Sondre Eriksen",
+        "club": "Porsgrunn",
+        "time": "1:39:55"
+      },
+      {
+        "pos": 32,
+        "name": "Mats Isaksen",
+        "club": "Isaksen Transport",
+        "time": "1:40:32"
+      },
+      {
+        "pos": 33,
+        "name": "Titouan Cloup",
+        "club": "Eiffage",
+        "time": "1:41:54"
+      },
+      {
+        "pos": 34,
+        "name": "Tor Eirik Hanger",
+        "club": "Skien",
+        "time": "1:42:31"
+      },
+      {
+        "pos": 35,
+        "name": "Oliver Gjølberg",
+        "club": "Oslo",
+        "time": "1:42:32"
+      },
+      {
+        "pos": 36,
+        "name": "Mads Brennemo Lund",
+        "club": "Skien",
+        "time": "1:42:34"
+      },
+      {
+        "pos": 37,
+        "name": "Espen Ajay Brynemo",
+        "club": "Skagerrak Sparebank",
+        "time": "1:42:35"
+      },
+      {
+        "pos": 38,
+        "name": "Aleksander Sørensen",
+        "club": "Skien",
+        "time": "1:43:16"
+      },
+      {
+        "pos": 39,
+        "name": "Henrik Holen",
+        "club": "Skien",
+        "time": "1:44:09"
+      },
+      {
+        "pos": 40,
+        "name": "Jimmy Trinh",
+        "club": "Kristiansand Studentidrettslag",
+        "time": "1:44:52"
+      },
+      {
+        "pos": 41,
+        "name": "Mikkel Heldal",
+        "club": "Skien",
+        "time": "1:45:24"
+      },
+      {
+        "pos": 42,
+        "name": "Kristian Walle",
+        "club": "Stathelle",
+        "time": "1:45:35"
+      },
+      {
+        "pos": 43,
+        "name": "Martin Knutsen",
+        "club": "Skagerak Energi BIL",
+        "time": "1:46:06"
+      },
+      {
+        "pos": 44,
+        "name": "Mathias Buer",
+        "club": "Skien",
+        "time": "1:46:14"
+      },
+      {
+        "pos": 45,
+        "name": "Mats Bjelland",
+        "club": "Porsgrunn",
+        "time": "1:46:34"
+      },
+      {
+        "pos": 46,
+        "name": "Kristoffer Hella",
+        "club": "Langesund tri",
+        "time": "1:46:57"
+      },
+      {
+        "pos": 47,
+        "name": "Kristian Pedersen",
+        "club": "Eidanger IL",
+        "time": "1:48:32"
+      },
+      {
+        "pos": 48,
+        "name": "Edvin Grytnes",
+        "club": "Skien",
+        "time": "1:48:33"
+      },
+      {
+        "pos": 49,
+        "name": "Sindre Seim Tyssedalstveit",
+        "club": "Tyssedal",
+        "time": "1:48:47"
+      },
+      {
+        "pos": 50,
+        "name": "Mathias Syversen",
+        "club": "Porsgrunn",
+        "time": "1:49:14"
+      },
+      {
+        "pos": 51,
+        "name": "Vegard Seim Karstang",
+        "club": "Stabekk",
+        "time": "1:49:30"
+      },
+      {
+        "pos": 52,
+        "name": "Marius Tangerås",
+        "club": "Skanska Altiv",
+        "time": "1:49:31"
+      },
+      {
+        "pos": 53,
+        "name": "Kristian Tovslid Johannessen",
+        "club": "Porsgrunn",
+        "time": "1:49:43"
+      },
+      {
+        "pos": 54,
+        "name": "Kristian Vikingsdal",
+        "club": "Porsgrunn",
+        "time": "1:49:44"
+      },
+      {
+        "pos": 55,
+        "name": "Fredrik Næss",
+        "club": "Langangen Idrettslag",
+        "time": "1:49:59"
+      },
+      {
+        "pos": 56,
+        "name": "Jimmy Brobakken",
+        "club": "ABB BIL",
+        "time": "1:50:36"
+      },
+      {
+        "pos": 57,
+        "name": "Simon Øien",
+        "club": "Abb Bedriftsidrettslag",
+        "time": "1:51:09"
+      },
+      {
+        "pos": 58,
+        "name": "Oskar Sederholm",
+        "club": "Moss",
+        "time": "1:51:16"
+      },
+      {
+        "pos": 59,
+        "name": "Niklas Rund",
+        "club": "Skien",
+        "time": "1:51:17"
+      },
+      {
+        "pos": 60,
+        "name": "Danny Vo",
+        "club": "Skien",
+        "time": "1:51:35"
+      },
+      {
+        "pos": 61,
+        "name": "Markus Løvstad",
+        "club": "Porsgrunn",
+        "time": "1:51:37"
+      },
+      {
+        "pos": 62,
+        "name": "Battit Harriet",
+        "club": "Eiffage",
+        "time": "1:53:09"
+      },
+      {
+        "pos": 63,
+        "name": "Simen Skaugen",
+        "club": "Porsgrunn",
+        "time": "1:53:26"
+      },
+      {
+        "pos": 64,
+        "name": "Trond Ingebrigtsen",
+        "club": "Larvik",
+        "time": "1:53:31"
+      },
+      {
+        "pos": 65,
+        "name": "Mikal Egeland",
+        "club": "Porsgrunn",
+        "time": "1:55:20"
+      },
+      {
+        "pos": 66,
+        "name": "Truls Valen",
+        "club": "Skien",
+        "time": "1:55:50"
+      },
+      {
+        "pos": 67,
+        "name": "Jacob Oxum",
+        "club": "Baneservice",
+        "time": "1:56:11"
+      },
+      {
+        "pos": 68,
+        "name": "Benjamin Steen Hansen",
+        "club": "Team Steen-Hansen",
+        "time": "1:56:36"
+      },
+      {
+        "pos": 69,
+        "name": "Thomas Johan Nilsen",
+        "club": "Skagerrak Eiendomsmegling AS",
+        "time": "1:56:45"
+      },
+      {
+        "pos": 70,
+        "name": "Jørgen Dinga",
+        "club": "Pils Pals",
+        "time": "1:56:54"
+      },
+      {
+        "pos": 71,
+        "name": "Brede Jullum",
+        "club": "Skien",
+        "time": "1:57:55"
+      },
+      {
+        "pos": 72,
+        "name": "Jon-Magnus Haugvik",
+        "club": "Langangen",
+        "time": "1:58:03"
+      },
+      {
+        "pos": 73,
+        "name": "Sivert Skram Johansen",
+        "club": "Krokstadelva",
+        "time": "1:58:47"
+      },
+      {
+        "pos": 74,
+        "name": "Gaute Brubakken",
+        "club": "Melkesyre",
+        "time": "1:59:10"
+      },
+      {
+        "pos": 75,
+        "name": "Per-Frede Vale Christensen",
+        "club": "Skien",
+        "time": "1:59:32"
+      },
+      {
+        "pos": 76,
+        "name": "Nathan Gautheron",
+        "club": "Porsgrunn",
+        "time": "1:59:45"
+      },
+      {
+        "pos": 77,
+        "name": "Ole Hegge",
+        "club": "Yess",
+        "time": "1:59:50"
+      },
+      {
+        "pos": 78,
+        "name": "Sander Eikåsen",
+        "club": "Stathelle",
+        "time": "2:00:31"
+      },
+      {
+        "pos": 79,
+        "name": "Mats Brog",
+        "club": "Skien",
+        "time": "2:00:46"
+      },
+      {
+        "pos": 80,
+        "name": "Lars Ivar Bratsberg",
+        "club": "Stridsklev IL",
+        "time": "2:01:15"
+      },
+      {
+        "pos": 81,
+        "name": "Sindre Stubberød",
+        "club": "Oslo",
+        "time": "2:01:40"
+      },
+      {
+        "pos": 82,
+        "name": "Simen Ervik",
+        "club": "Prosjektil Sør",
+        "time": "2:02:52"
+      },
+      {
+        "pos": 83,
+        "name": "Karl Kristoffersen",
+        "club": "Drammen",
+        "time": "2:02:53"
+      },
+      {
+        "pos": 84,
+        "name": "Marvin Hartz",
+        "club": "Eiffage",
+        "time": "2:03:36"
+      },
+      {
+        "pos": 85,
+        "name": "Robin Solstad",
+        "club": "Porsgrunn",
+        "time": "2:04:41"
+      },
+      {
+        "pos": 86,
+        "name": "Marius Nilsen",
+        "club": "Skien",
+        "time": "2:05:09"
+      },
+      {
+        "pos": 87,
+        "name": "Nikolai Vike",
+        "club": "Skien",
+        "time": "2:06:31"
+      },
+      {
+        "pos": 88,
+        "name": "Simen Stubberød",
+        "club": "Skien",
+        "time": "2:08:14"
+      },
+      {
+        "pos": 89,
+        "name": "Sander Nordvik Johnsen",
+        "club": "Solberg Bil",
+        "time": "2:10:52"
+      },
+      {
+        "pos": 90,
+        "name": "Jon Andersen",
+        "club": "ABB BIL",
+        "time": "2:14:37"
+      },
+      {
+        "pos": 91,
+        "name": "Håkon Lie",
+        "club": "Åmdal Il/Team Rambo",
+        "time": "2:15:50"
+      },
+      {
+        "pos": 92,
+        "name": "Ole Edvard Borhaug",
+        "club": "Porsgrunn",
+        "time": "2:16:13"
+      },
+      {
+        "pos": 93,
+        "name": "Romain Tréanton",
+        "club": "Eiffage",
+        "time": "2:23:37"
+      },
+      {
+        "pos": 94,
+        "name": "Snorre Olsen Gurholt",
+        "club": "Skien",
+        "time": "2:25:26"
+      },
+      {
+        "pos": 95,
+        "name": "Erick Jose-Johannessen",
+        "club": "Sandefjord",
+        "time": "2:29:06"
+      },
+      {
+        "pos": 96,
+        "name": "Nicolai Nilsen",
+        "club": "Fartsholder 2:30",
+        "time": "2:29:56"
+      },
+      {
+        "pos": 97,
+        "name": "André Belsvik Haugseter",
+        "club": "Skien",
+        "time": "2:37:19"
+      },
+      {
+        "pos": 98,
+        "name": "Sander Benden",
+        "club": "Eidanger IL",
+        "time": "2:44:12"
+      },
+      {
+        "pos": 99,
+        "name": "Hadi Khoshnoodikhah",
+        "club": "Eiffage",
+        "time": "2:46:21"
+      },
+      {
+        "pos": 100,
+        "name": "Johannes Nordeng",
+        "club": "ABB BIL",
+        "time": "2:52:51"
+      },
+      {
+        "pos": 101,
+        "name": "Jesper Dyb",
+        "club": "Moss",
+        "time": "2:54:50"
+      }
+    ],
+    "K35-39": [
+      {
+        "pos": 1,
+        "name": "June Rebecca Hansen",
+        "club": "Oslo",
+        "time": "1:43:54"
+      },
+      {
+        "pos": 2,
+        "name": "Marion Smemo",
+        "club": "Yess",
+        "time": "1:44:23"
+      },
+      {
+        "pos": 3,
+        "name": "Siri Breivik Ellingsen",
+        "club": "Porsgrunn",
+        "time": "1:57:52"
+      },
+      {
+        "pos": 4,
+        "name": "Inga Wasshaug Gonsholt",
+        "club": "Skien",
+        "time": "1:58:53"
+      },
+      {
+        "pos": 5,
+        "name": "Maria Granlund",
+        "club": "Porsgrunn",
+        "time": "1:59:49"
+      },
+      {
+        "pos": 6,
+        "name": "Linn Beathe Esborg",
+        "club": "Notodden",
+        "time": "2:02:48"
+      },
+      {
+        "pos": 7,
+        "name": "Linda Gundersen-Aksnes",
+        "club": "Frisk Bris",
+        "time": "2:08:53"
+      },
+      {
+        "pos": 8,
+        "name": "Marlene Lykseth",
+        "club": "Porsgrunn",
+        "time": "2:14:55"
+      },
+      {
+        "pos": 9,
+        "name": "Aline D Avila Gabbardo",
+        "club": "Porsgrunn",
+        "time": "2:17:29"
+      },
+      {
+        "pos": 10,
+        "name": "Natasha Finseth",
+        "club": "Skien",
+        "time": "2:24:12"
+      },
+      {
+        "pos": 11,
+        "name": "Regine Nilsen",
+        "club": "Langesund Tri",
+        "time": "2:30:44"
+      },
+      {
+        "pos": 12,
+        "name": "Silje Iren Klemetvold",
+        "club": "Eiffage",
+        "time": "2:38:49"
+      },
+      {
+        "pos": 13,
+        "name": "Kjersti Myro",
+        "club": "Miljøpartiet de Grønne",
+        "time": "2:41:50"
+      }
+    ],
+    "M35-39": [
+      {
+        "pos": 1,
+        "name": "Kristian Ulriksen",
+        "club": "Breaking Marathon Limits",
+        "time": "1:11:37"
+      },
+      {
+        "pos": 2,
+        "name": "Jørgen Hals",
+        "club": "Kil Tennis og Kulturklubb",
+        "time": "1:14:27"
+      },
+      {
+        "pos": 3,
+        "name": "Thomas Guste-Pedersen",
+        "club": "Kil Tennis og Kulturklubb",
+        "time": "1:20:27"
+      },
+      {
+        "pos": 4,
+        "name": "Magnus Hasseleid",
+        "club": "Sarpsborg",
+        "time": "1:20:28"
+      },
+      {
+        "pos": 5,
+        "name": "Truls Ditlefsen",
+        "club": "Skagerak Energi BIL",
+        "time": "1:20:54"
+      },
+      {
+        "pos": 6,
+        "name": "Kjetil Høie",
+        "club": "Mandagsmila",
+        "time": "1:26:49"
+      },
+      {
+        "pos": 7,
+        "name": "Jonas Tørdal",
+        "club": "Skien",
+        "time": "1:29:32"
+      },
+      {
+        "pos": 8,
+        "name": "Ole-Thomas Netten",
+        "club": "Ulefoss",
+        "time": "1:30:41"
+      },
+      {
+        "pos": 9,
+        "name": "Christian Heggland",
+        "club": "NOV",
+        "time": "1:33:42"
+      },
+      {
+        "pos": 10,
+        "name": "Mathias Nordmoen",
+        "club": "Peter Pan Pacers",
+        "time": "1:33:44"
+      },
+      {
+        "pos": 11,
+        "name": "Tor Egil Fjalestad",
+        "club": "Enrx as",
+        "time": "1:35:49"
+      },
+      {
+        "pos": 12,
+        "name": "Christoffer Andersen",
+        "club": "Stabekk",
+        "time": "1:36:33"
+      },
+      {
+        "pos": 13,
+        "name": "Marius Borg",
+        "club": "Porsgrunn",
+        "time": "1:36:56"
+      },
+      {
+        "pos": 14,
+        "name": "Aleksander Haughom",
+        "club": "Skien",
+        "time": "1:37:17"
+      },
+      {
+        "pos": 15,
+        "name": "Marius Lundeberg Enger",
+        "club": "Privatmegleren/Eidanger",
+        "time": "1:38:03"
+      },
+      {
+        "pos": 16,
+        "name": "Dan Valla Gunnulfsen",
+        "club": "Eidanger IL",
+        "time": "1:38:10"
+      },
+      {
+        "pos": 17,
+        "name": "Espen Stridsklev",
+        "club": "Bilfinger Norway AS",
+        "time": "1:38:12"
+      },
+      {
+        "pos": 18,
+        "name": "Jim Robert Halvorsen",
+        "club": "Sundjordet",
+        "time": "1:39:24"
+      },
+      {
+        "pos": 19,
+        "name": "David Krogager Dolva",
+        "club": "Skagerak Energi Bedriftsidrettslag",
+        "time": "1:39:34"
+      },
+      {
+        "pos": 20,
+        "name": "Anund Ryen",
+        "club": "Skanska Aktiv",
+        "time": "1:39:39"
+      },
+      {
+        "pos": 21,
+        "name": "Erik Bjerkeseth",
+        "club": "Skien",
+        "time": "1:39:54"
+      },
+      {
+        "pos": 22,
+        "name": "Stephan Grøtte",
+        "club": "Astrup AS",
+        "time": "1:41:25"
+      },
+      {
+        "pos": 23,
+        "name": "Vegard Brubakken",
+        "club": "Skien",
+        "time": "1:44:56"
+      },
+      {
+        "pos": 24,
+        "name": "Fredrik Gundersen",
+        "club": "Porsgrunn",
+        "time": "1:45:58"
+      },
+      {
+        "pos": 25,
+        "name": "Truls Hørta",
+        "club": "Porsgrunn",
+        "time": "1:46:31"
+      },
+      {
+        "pos": 26,
+        "name": "Quinten De Vreught",
+        "club": "Team Max",
+        "time": "1:48:14"
+      },
+      {
+        "pos": 27,
+        "name": "Håvard Nordaunet",
+        "club": "Stathelle",
+        "time": "1:48:21"
+      },
+      {
+        "pos": 28,
+        "name": "Haakon Ellefsen",
+        "club": "IF Storm",
+        "time": "1:48:31"
+      },
+      {
+        "pos": 29,
+        "name": "Trym Borlaug",
+        "club": "Yara Porsgrunn",
+        "time": "1:48:36"
+      },
+      {
+        "pos": 30,
+        "name": "Joakim Sørum",
+        "club": "Skien",
+        "time": "1:49:08"
+      },
+      {
+        "pos": 31,
+        "name": "Jonas Bjørkå-Hjortdal",
+        "club": "Porsgrunn",
+        "time": "1:49:41"
+      },
+      {
+        "pos": 32,
+        "name": "Robin Leines Klausen",
+        "club": "Porsgrunn",
+        "time": "1:50:36"
+      },
+      {
+        "pos": 33,
+        "name": "Thomas Mesics",
+        "club": "Team DTN",
+        "time": "1:50:37"
+      },
+      {
+        "pos": 34,
+        "name": "Kristian Halvorsen",
+        "club": "Yess",
+        "time": "1:51:49"
+      },
+      {
+        "pos": 35,
+        "name": "Bendik Agnalt",
+        "club": "Langesund Tri",
+        "time": "1:52:03"
+      },
+      {
+        "pos": 36,
+        "name": "Glenn Aaltvedt",
+        "club": "Løpegjengen",
+        "time": "1:52:34"
+      },
+      {
+        "pos": 37,
+        "name": "Fredrik Iversen",
+        "club": "Skagerak Energi BIL",
+        "time": "1:53:41"
+      },
+      {
+        "pos": 38,
+        "name": "Terje Andersen",
+        "club": "ABB BIL",
+        "time": "1:56:00"
+      },
+      {
+        "pos": 39,
+        "name": "André Moen",
+        "club": "Skien",
+        "time": "1:56:27"
+      },
+      {
+        "pos": 40,
+        "name": "Lars Kristian Allum",
+        "club": "Porsgrunn",
+        "time": "1:58:52"
+      },
+      {
+        "pos": 41,
+        "name": "Kim-André Lie",
+        "club": "Team Taffå",
+        "time": "1:59:50"
+      },
+      {
+        "pos": 42,
+        "name": "Patrick Engblom",
+        "club": "Team Steen-Hansen",
+        "time": "2:00:49"
+      },
+      {
+        "pos": 43,
+        "name": "David Thunes Nielsen",
+        "club": "Stathelle",
+        "time": "2:01:17"
+      },
+      {
+        "pos": 44,
+        "name": "Lars Kastet",
+        "club": "Skien",
+        "time": "2:01:55"
+      },
+      {
+        "pos": 45,
+        "name": "Ibrahim Gøkce",
+        "club": "Eidanger IL",
+        "time": "2:06:33"
+      },
+      {
+        "pos": 46,
+        "name": "Eirik Moen",
+        "club": "Drammen",
+        "time": "2:14:42"
+      },
+      {
+        "pos": 47,
+        "name": "Kristoffer Stanger",
+        "club": "Herretrimmen",
+        "time": "2:17:17"
+      },
+      {
+        "pos": 48,
+        "name": "Philippe Matte",
+        "club": "Eiffage",
+        "time": "2:17:22"
+      }
+    ],
+    "K40-44": [
+      {
+        "pos": 1,
+        "name": "Asta Ellingvåg",
+        "club": "Sk Vidar",
+        "time": "1:22:44"
+      },
+      {
+        "pos": 2,
+        "name": "Turi Malme",
+        "club": "Gjerpen IF",
+        "time": "1:25:30"
+      },
+      {
+        "pos": 3,
+        "name": "Stine Næss-Hartmann",
+        "club": "Nesodden",
+        "time": "1:38:42"
+      },
+      {
+        "pos": 4,
+        "name": "Anette Ramfjord",
+        "club": "Gjerpen",
+        "time": "1:43:54"
+      },
+      {
+        "pos": 5,
+        "name": "Jeanette Ellesøe",
+        "club": "Borgenhaugen",
+        "time": "1:49:44"
+      },
+      {
+        "pos": 6,
+        "name": "Vibeke Andersen",
+        "club": "Skien",
+        "time": "1:51:48"
+      },
+      {
+        "pos": 7,
+        "name": "Kristina Bakly",
+        "club": "Asics Frontrunner",
+        "time": "1:54:21"
+      },
+      {
+        "pos": 8,
+        "name": "Hilde Daapan",
+        "club": "Porsgrunn",
+        "time": "2:04:23"
+      },
+      {
+        "pos": 8,
+        "name": "Vibeke Lund",
+        "club": "Porsgrunn",
+        "time": "2:04:23"
+      },
+      {
+        "pos": 10,
+        "name": "Ingrid Ulveseter Lode",
+        "club": "Barneavdelingen",
+        "time": "2:05:20"
+      },
+      {
+        "pos": 11,
+        "name": "Linn Marie Dehli Nøringset",
+        "club": "TKT Inneklima",
+        "time": "2:07:33"
+      },
+      {
+        "pos": 12,
+        "name": "Manielyn Dela Cruz",
+        "club": "Porsgrunn",
+        "time": "2:07:36"
+      },
+      {
+        "pos": 13,
+        "name": "Laila Jønholt",
+        "club": "Fartsholder 2:10",
+        "time": "2:11:03"
+      },
+      {
+        "pos": 14,
+        "name": "Ida Tilly",
+        "club": "Ida Tilly",
+        "time": "2:11:04"
+      },
+      {
+        "pos": 15,
+        "name": "Dorota Nalewajek",
+        "club": "Drammen",
+        "time": "2:11:56"
+      },
+      {
+        "pos": 16,
+        "name": "Elin Sanden",
+        "club": "Porsgrunn",
+        "time": "2:15:36"
+      }
+    ],
+    "M40-44": [
+      {
+        "pos": 1,
+        "name": "Stian Hamre",
+        "club": "Skagerak Energi BIL",
+        "time": "1:22:08"
+      },
+      {
+        "pos": 2,
+        "name": "Aleksander Larsen",
+        "club": "Rabil",
+        "time": "1:28:09"
+      },
+      {
+        "pos": 3,
+        "name": "Sigurd Rognmo Solvoll",
+        "club": "Oslo",
+        "time": "1:28:23"
+      },
+      {
+        "pos": 4,
+        "name": "Eirik A Østenå",
+        "club": "Porsgrunn",
+        "time": "1:29:38"
+      },
+      {
+        "pos": 5,
+        "name": "Aksel Rød",
+        "club": "Skien",
+        "time": "1:31:05"
+      },
+      {
+        "pos": 6,
+        "name": "Johan Ottem-Guii",
+        "club": "Bryn Byggklima",
+        "time": "1:35:39"
+      },
+      {
+        "pos": 7,
+        "name": "Raymond Hermansen",
+        "club": "Novari",
+        "time": "1:36:53"
+      },
+      {
+        "pos": 8,
+        "name": "Øyvind Barosen",
+        "club": "Sweco BIL",
+        "time": "1:38:05"
+      },
+      {
+        "pos": 9,
+        "name": "Thor Ingo Gabrielsen",
+        "club": "Skien",
+        "time": "1:40:19"
+      },
+      {
+        "pos": 10,
+        "name": "Ole Jørgen Stoa",
+        "club": "Yess",
+        "time": "1:42:16"
+      },
+      {
+        "pos": 11,
+        "name": "Fredrik Aasheim",
+        "club": "Oslo",
+        "time": "1:46:04"
+      },
+      {
+        "pos": 12,
+        "name": "Andreas Ekman",
+        "club": "Brevik",
+        "time": "1:46:41"
+      },
+      {
+        "pos": 13,
+        "name": "Andre Breiland",
+        "club": "Brevik IL",
+        "time": "1:47:00"
+      },
+      {
+        "pos": 14,
+        "name": "Stian Daapan",
+        "club": "Porsgrunn",
+        "time": "1:49:26"
+      },
+      {
+        "pos": 15,
+        "name": "Lasse Tollefsen",
+        "club": "SKI",
+        "time": "1:53:34"
+      },
+      {
+        "pos": 16,
+        "name": "John S. Mcshane",
+        "club": "Yess",
+        "time": "1:54:45"
+      },
+      {
+        "pos": 17,
+        "name": "Petter André Larsen",
+        "club": "Kolsås",
+        "time": "1:54:58"
+      },
+      {
+        "pos": 18,
+        "name": "Andreas Hauknes Reksten",
+        "club": "Oslo",
+        "time": "1:56:13"
+      },
+      {
+        "pos": 19,
+        "name": "Dan Atle Solheim",
+        "club": "Nel BIL",
+        "time": "1:56:19"
+      },
+      {
+        "pos": 20,
+        "name": "Stian Frislie",
+        "club": "Skien",
+        "time": "1:58:11"
+      },
+      {
+        "pos": 21,
+        "name": "Marcus Bergsli",
+        "club": "Porsgrunn",
+        "time": "1:59:01"
+      },
+      {
+        "pos": 22,
+        "name": "Richard Gulbrandsen",
+        "club": "Eidanger IL",
+        "time": "2:00:00"
+      },
+      {
+        "pos": 23,
+        "name": "Terjee Steinmo",
+        "club": "Leite Steinmo",
+        "time": "2:00:53"
+      },
+      {
+        "pos": 24,
+        "name": "Geir Borgar Nilsen",
+        "club": "Porsgrunn",
+        "time": "2:04:15"
+      },
+      {
+        "pos": 25,
+        "name": "Sindre Klakegg Bruflot",
+        "club": "Gjerpen IF",
+        "time": "2:11:20"
+      },
+      {
+        "pos": 26,
+        "name": "Joacim Lunde",
+        "club": "Asics Front Runners",
+        "time": "2:23:46"
+      },
+      {
+        "pos": 27,
+        "name": "Mats Granli",
+        "club": "Skien",
+        "time": "2:23:47"
+      }
+    ],
+    "K45-49": [
+      {
+        "pos": 1,
+        "name": "Live Kåsa Svarstad",
+        "club": "Grenland Sykleklubb",
+        "time": "1:47:31"
+      },
+      {
+        "pos": 2,
+        "name": "Silje Zetterstrøm",
+        "club": "Skagerak Energi BIL",
+        "time": "1:47:47"
+      },
+      {
+        "pos": 3,
+        "name": "Ingrid Norendal Braathen",
+        "club": "Gjerpen IF",
+        "time": "1:48:15"
+      },
+      {
+        "pos": 4,
+        "name": "Petra Kern-Nilsen",
+        "club": "Porsgrunn",
+        "time": "1:51:53"
+      },
+      {
+        "pos": 5,
+        "name": "Marita Bergum Sandberg",
+        "club": "Asics Frontrunner",
+        "time": "1:54:21"
+      },
+      {
+        "pos": 6,
+        "name": "Kari Solheim Rodrigues",
+        "club": "Hurramegrundt",
+        "time": "1:59:46"
+      },
+      {
+        "pos": 7,
+        "name": "Turid Zagar Nes",
+        "club": "Larvik OK",
+        "time": "1:59:56"
+      },
+      {
+        "pos": 8,
+        "name": "Marianne Steiro Heibø",
+        "club": "Fartsholder 2:00",
+        "time": "2:00:04"
+      },
+      {
+        "pos": 9,
+        "name": "Maria Halvorsen",
+        "club": "Larvik",
+        "time": "2:09:54"
+      },
+      {
+        "pos": 10,
+        "name": "Jane Line Johansen",
+        "club": "Porsgrunn",
+        "time": "2:11:02"
+      },
+      {
+        "pos": 11,
+        "name": "Therese Amble",
+        "club": "Oslo",
+        "time": "2:16:17"
+      },
+      {
+        "pos": 12,
+        "name": "Linda Beate Uppheim",
+        "club": "Oslo",
+        "time": "2:19:52"
+      },
+      {
+        "pos": 13,
+        "name": "Cathrine Moen",
+        "club": "Notodden",
+        "time": "2:20:09"
+      },
+      {
+        "pos": 14,
+        "name": "Kathrine F. Nerli",
+        "club": "Larvik",
+        "time": "2:41:16"
+      }
+    ],
+    "M45-49": [
+      {
+        "pos": 1,
+        "name": "Christer Hult",
+        "club": "Halden Løpeklubb",
+        "time": "1:15:13"
+      },
+      {
+        "pos": 2,
+        "name": "Sondre Taranger",
+        "club": "Gjerpen IF",
+        "time": "1:20:18"
+      },
+      {
+        "pos": 3,
+        "name": "Tomas Nystuen",
+        "club": "Langesund Sykle- og Triathlonklubb",
+        "time": "1:24:14"
+      },
+      {
+        "pos": 4,
+        "name": "Stian Dalen",
+        "club": "Eidanger IL",
+        "time": "1:30:10"
+      },
+      {
+        "pos": 5,
+        "name": "Åsmund Gusfre",
+        "club": "Skagerak Energi BIL",
+        "time": "1:31:48"
+      },
+      {
+        "pos": 6,
+        "name": "Björn Fischer",
+        "club": "Hei/Abb",
+        "time": "1:31:56"
+      },
+      {
+        "pos": 7,
+        "name": "Kenneth Rekvik",
+        "club": "Gjerpen IF",
+        "time": "1:35:05"
+      },
+      {
+        "pos": 8,
+        "name": "Terje Nøringset",
+        "club": "TKT Inneklima AS",
+        "time": "1:40:30"
+      },
+      {
+        "pos": 9,
+        "name": "Tormod Aure",
+        "club": "Sport 1 Porsgrunn",
+        "time": "1:40:59"
+      },
+      {
+        "pos": 10,
+        "name": "Jon Emil Hammervold",
+        "club": "Bilfinger",
+        "time": "1:41:33"
+      },
+      {
+        "pos": 11,
+        "name": "Mauritz Lauwrier Frantsvåg",
+        "club": "Porsgrunn",
+        "time": "1:43:30"
+      },
+      {
+        "pos": 12,
+        "name": "Albrecht Dix",
+        "club": "Porsgrunn",
+        "time": "1:52:00"
+      },
+      {
+        "pos": 13,
+        "name": "Alex De Brito",
+        "club": "Vianode",
+        "time": "1:52:25"
+      },
+      {
+        "pos": 14,
+        "name": "Ole Kristian Olsen",
+        "club": "Porsgrunn",
+        "time": "1:55:02"
+      },
+      {
+        "pos": 15,
+        "name": "Thomas Berg Olsen",
+        "club": "Porsgrunn",
+        "time": "1:59:04"
+      },
+      {
+        "pos": 16,
+        "name": "Thomas Bakke Eriksen",
+        "club": "Bilfinger",
+        "time": "2:05:14"
+      },
+      {
+        "pos": 17,
+        "name": "Roger Olsen",
+        "club": "Porsgrunn",
+        "time": "2:14:26"
+      }
+    ],
+    "K50-54": [
+      {
+        "pos": 1,
+        "name": "Nina Synnøve Bakke",
+        "club": "Heistad Løpeklubb Damer",
+        "time": "1:41:37"
+      },
+      {
+        "pos": 2,
+        "name": "Linda Kristiansen",
+        "club": "Helle",
+        "time": "1:47:45"
+      },
+      {
+        "pos": 3,
+        "name": "Mette Valen",
+        "club": "Skien",
+        "time": "1:53:55"
+      },
+      {
+        "pos": 4,
+        "name": "Helen Bruus",
+        "club": "Asics Frontrunner/Romerike Ultraløperklubb",
+        "time": "1:59:10"
+      },
+      {
+        "pos": 5,
+        "name": "Mette Løvmo",
+        "club": "Sportsjentene",
+        "time": "2:11:46"
+      },
+      {
+        "pos": 6,
+        "name": "Linda Huseby 2:12:24",
+        "club": "7) Trude Marlen Thinghaugen, Larvik",
+        "time": "2:14:34"
+      },
+      {
+        "pos": 8,
+        "name": "Turid Verpe",
+        "club": "Notodden",
+        "time": "2:43:00"
+      }
+    ],
+    "M50-54": [
+      {
+        "pos": 1,
+        "name": "Christian Thon",
+        "club": "Duestien Barnehage",
+        "time": "1:32:46"
+      },
+      {
+        "pos": 2,
+        "name": "Robert Stenersen Mcshane",
+        "club": "Vågsbygd Runners",
+        "time": "1:34:03"
+      },
+      {
+        "pos": 3,
+        "name": "Kristian Tobiasson",
+        "club": "Porsgrunn",
+        "time": "1:39:23"
+      },
+      {
+        "pos": 4,
+        "name": "Pål Winberg",
+        "club": "Fartsholder 1:40",
+        "time": "1:39:56"
+      },
+      {
+        "pos": 5,
+        "name": "Arve Haavik",
+        "club": "Yess",
+        "time": "1:41:01"
+      },
+      {
+        "pos": 6,
+        "name": "Morten Schau",
+        "club": "Team Masoval",
+        "time": "1:42:08"
+      },
+      {
+        "pos": 7,
+        "name": "Aleksander Natedal",
+        "club": "Porsgrunn",
+        "time": "1:46:35"
+      },
+      {
+        "pos": 8,
+        "name": "Marius Lid",
+        "club": "Brevik",
+        "time": "1:48:12"
+      },
+      {
+        "pos": 9,
+        "name": "Jo-Are Stubmo",
+        "club": "Bamford1869 Nærsnes Løpeklubb",
+        "time": "1:50:15"
+      },
+      {
+        "pos": 10,
+        "name": "Stian Lid",
+        "club": "Eidanger IL",
+        "time": "1:51:25"
+      },
+      {
+        "pos": 11,
+        "name": "Ivan Jacobsen",
+        "club": "Stathelle",
+        "time": "1:54:58"
+      },
+      {
+        "pos": 12,
+        "name": "Morten Jensen",
+        "club": "C H Evensen",
+        "time": "1:56:51"
+      },
+      {
+        "pos": 13,
+        "name": "Espen Johnsen",
+        "club": "Herkules Sykkel",
+        "time": "2:03:21"
+      },
+      {
+        "pos": 14,
+        "name": "Morten Leo Weber",
+        "club": "BØ I Telemark",
+        "time": "2:05:07"
+      },
+      {
+        "pos": 15,
+        "name": "Kjetil Kristoffersen",
+        "club": "Heistad",
+        "time": "2:14:41"
+      },
+      {
+        "pos": 16,
+        "name": "Rune Theodorsen",
+        "club": "Sprek Down Town",
+        "time": "2:21:17"
+      }
+    ],
+    "K55-59": [
+      {
+        "pos": 1,
+        "name": "Jane Berit Solvi",
+        "club": "Skagerak Energi",
+        "time": "1:59:03"
+      },
+      {
+        "pos": 2,
+        "name": "Janne Prestårhus",
+        "club": "Atrå",
+        "time": "2:15:08"
+      },
+      {
+        "pos": 3,
+        "name": "Annette Jacobsen",
+        "club": "Oslo",
+        "time": "2:19:52"
+      },
+      {
+        "pos": 4,
+        "name": "Inger Sofie Mysen Conradsen",
+        "club": "Girlboss Legends",
+        "time": "2:23:16"
+      },
+      {
+        "pos": 5,
+        "name": "Hege Haugaard",
+        "club": "Brevik",
+        "time": "2:36:57"
+      },
+      {
+        "pos": 6,
+        "name": "Trine Ørbæk",
+        "club": "Universitetet i Sørøst-Norge",
+        "time": "3:06:37"
+      }
+    ],
+    "M55-59": [
+      {
+        "pos": 1,
+        "name": "Anders Meland",
+        "club": "Skidar IF",
+        "time": "1:32:13"
+      },
+      {
+        "pos": 2,
+        "name": "Reidar Skrunes",
+        "club": "Haugesund Triatlon Klubb",
+        "time": "1:39:42"
+      },
+      {
+        "pos": 3,
+        "name": "Ivar Frisnes",
+        "club": "Skien Fritidspark",
+        "time": "1:44:02"
+      },
+      {
+        "pos": 4,
+        "name": "Erik Omdal",
+        "club": "Viken Fiber",
+        "time": "1:44:54"
+      },
+      {
+        "pos": 5,
+        "name": "Carl Åge Bjørgan",
+        "club": "Høvik",
+        "time": "1:46:00"
+      },
+      {
+        "pos": 6,
+        "name": "Christian Østvold",
+        "club": "Porsgrunn",
+        "time": "1:49:34"
+      },
+      {
+        "pos": 7,
+        "name": "Gert Willumsen",
+        "club": "Profiliko",
+        "time": "1:50:43"
+      },
+      {
+        "pos": 8,
+        "name": "Lasse Henning Mo",
+        "club": "ABB Skien",
+        "time": "1:52:09"
+      },
+      {
+        "pos": 9,
+        "name": "Asbjørn Iveland",
+        "club": "Stathelle",
+        "time": "1:55:08"
+      },
+      {
+        "pos": 10,
+        "name": "Roar Svendsen",
+        "club": "Porsgrunn",
+        "time": "1:57:44"
+      },
+      {
+        "pos": 11,
+        "name": "David Grennes",
+        "club": "Telenor",
+        "time": "2:01:53"
+      },
+      {
+        "pos": 12,
+        "name": "Andre Vindheim",
+        "club": "Grenland Betongsaging AS",
+        "time": "2:04:00"
+      },
+      {
+        "pos": 13,
+        "name": "Egil Aaltvedt",
+        "club": "Nordan",
+        "time": "2:55:30"
+      }
+    ],
+    "K60-64": [
+      {
+        "pos": 1,
+        "name": "Linda Waatevik",
+        "club": "Gjerpen IF",
+        "time": "1:53:57"
+      },
+      {
+        "pos": 2,
+        "name": "Lone Nielsen",
+        "club": "Fartsholderc 2:20",
+        "time": "2:17:31"
+      },
+      {
+        "pos": 3,
+        "name": "Connie Schneider",
+        "club": "Team Kondis",
+        "time": "2:21:13"
+      },
+      {
+        "pos": 4,
+        "name": "Grete Aas",
+        "club": "Skien Kommune / Gjerpen IF",
+        "time": "2:53:53"
+      }
+    ],
+    "M60-64": [
+      {
+        "pos": 1,
+        "name": "Per-Kåre Sortevik",
+        "club": "Gjerpen IF",
+        "time": "1:34:08"
+      },
+      {
+        "pos": 2,
+        "name": "Kai Holmen",
+        "club": "Hedalen IL/ NIF BIL",
+        "time": "1:37:40"
+      },
+      {
+        "pos": 3,
+        "name": "Tor Erik Aas",
+        "club": "Solberg Bil",
+        "time": "1:46:49"
+      },
+      {
+        "pos": 4,
+        "name": "Geir Timland",
+        "club": "Dalen",
+        "time": "1:48:10"
+      },
+      {
+        "pos": 5,
+        "name": "Morten Gare",
+        "club": "Drangedal",
+        "time": "1:51:36"
+      },
+      {
+        "pos": 6,
+        "name": "Sverre Smemo",
+        "club": "Langesund Tri",
+        "time": "1:55:40"
+      },
+      {
+        "pos": 7,
+        "name": "Eirik Ellingsen",
+        "club": "Skagerrak Sportsklubb",
+        "time": "1:56:18"
+      },
+      {
+        "pos": 8,
+        "name": "Terje Gaaserud",
+        "club": "Gjerpen",
+        "time": "1:58:14"
+      },
+      {
+        "pos": 9,
+        "name": "Per Henry Ellingsen",
+        "club": "Brevik",
+        "time": "1:59:15"
+      },
+      {
+        "pos": 10,
+        "name": "Sondre Ditlefsen",
+        "club": "Løpeglad Sprek",
+        "time": "2:06:50"
+      }
+    ],
+    "M65-69": [
+      {
+        "pos": 1,
+        "name": "Olav Nygaard",
+        "club": "Skagerak Energi",
+        "time": "2:09:49"
+      }
+    ],
+    "M70-74": [
+      {
+        "pos": 1,
+        "name": "Thor Gulbrandsen",
+        "club": "Herre",
+        "time": "2:16:56"
+      }
+    ],
+    "M75+": [
+      {
+        "pos": 1,
+        "name": "Asbjørn Kvernrød",
+        "club": "Team Sportsmanden",
+        "time": "2:43:19"
+      }
+    ]
+  }
+}
